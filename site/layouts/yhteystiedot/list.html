@@ -1,0 +1,28 @@
+{{ define "main" }}
+
+<div class="banner" style="background-image: url('{{ .Params.banner }}')">
+  <h1>{{ .Params.Title }}</h1>
+</div>
+<div class="geometry" style="background-image: url('img/kuvio.svg')">
+</div>
+<div class="text-container">
+  {{ .Content }}
+</div>
+
+<script>
+  // Initialize and add the map
+  function initMap() {
+    // The location of Uluru
+    var uluru = {lat:61.630685754862135, lng: 23.9325098597717};
+    // The map, centered at Uluru
+    var map = new google.maps.Map(
+        document.getElementById('map'), {zoom: 14, center: uluru});
+    // The marker, positioned at Uluru
+    var marker = new google.maps.Marker({position: uluru, map: map});
+  }
+</script>
+<script async defer
+        src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBcmClCaTBdp1pXk72ppUewQKvNCgE7Uyo&callback=initMap">
+</script>
+
+{{end}}
