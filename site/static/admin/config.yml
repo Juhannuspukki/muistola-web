@@ -1,0 +1,42 @@
+backend:
+  name: git-gateway
+  branch: master # Branch to update (optional; defaults to master)
+media_folder: "static/img" # Media files will be stored in the repo under static/images/uploads
+public_folder: "img" # The src attribute for uploaded media will begin with /images/uploads
+collections:
+  - name: "palvelut" # Used in routes, e.g., /admin/collections/blog
+    label: "Palvelut" # Used in the UI
+    folder: "content/palvelut" # The path to the folder where the documents are stored
+    create: false # Allow users to create new documents in this collection
+    fields: # The fields for each document, usually in front matter
+      - {label: "Otsikko (kuvan päällä)", name: "title", widget: "string"}
+      - {label: "Otsikko (hakukoneille)", name: "metatitle", widget: "string"}
+      - {label: "Kuva", name: "banner", widget: "image"}
+      - {label: "Sisältö", name: "body", widget: "markdown"}
+  - name: "tietoa-muistolasta" # Used in routes, e.g., /admin/collections/blog
+    label: "Tietoa Muistolasta" # Used in the UI
+    folder: "content/tietoa-muistolasta" # The path to the folder where the documents are stored
+    create: false # Allow users to create new documents in this collection
+    fields: # The fields for each document, usually in front matter
+      - {label: "Otsikko (kuvan päällä)", name: "title", widget: "string"}
+      - {label: "Otsikko (hakukoneille)", name: "metatitle", widget: "string"}
+      - {label: "Kuva", name: "banner", widget: "image"}
+      - {label: "Sisältö", name: "body", widget: "markdown"}
+  - name: "yhteystiedot" # Used in routes, e.g., /admin/collections/blog
+    label: "Yhteystiedot" # Used in the UI
+    folder: "content/yhteystiedot" # The path to the folder where the documents are stored
+    create: false # Allow users to create new documents in this collection
+    fields: # The fields for each document, usually in front matter
+      - {label: "Otsikko (kuvan päällä)", name: "title", widget: "string"}
+      - {label: "Otsikko (hakukoneille)", name: "metatitle", widget: "string"}
+      - {label: "Kuva", name: "banner", widget: "image"}
+      - {label: "Sisältö", name: "body", widget: "markdown"}
+  - name: "front-page" # Used in routes, e.g., /admin/collections/blog
+    label: "Etusivu" # Used in the UI
+    folder: "content/" # The path to the folder where the documents are stored
+    create: false # Allow users to create new documents in this collection
+    fields: # The fields for each document, usually in front matter
+      - {label: "Otsikko (kuvan päällä)", name: "title", widget: "string"}
+      - {label: "Otsikko (hakukoneille)", name: "metatitle", widget: "string"}
+      - {label: "Kuva", name: "banner", widget: "image"}
+      - {label: "Sisältö", name: "body", widget: "markdown"}
