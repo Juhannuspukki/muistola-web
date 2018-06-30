@@ -10,13 +10,17 @@ $gray-color: #333;
   background: linear-gradient(to bottom, $blue-color 0%, $white-color 100%);
 }
 
+@mixin clip {
+  -webkit-clip-path: inset(0 0 72px 0);
+  clip-path: inset(0 0 72px 0);
+}
+
 html {
   height: 100%;
   font-size: 14px;
 }
 
 body {
-  @include gradient;
   font-family: 'Merriweather', serif;
   font-size: 1em;
   text-align: left;
@@ -27,6 +31,9 @@ h2 {
     font-size: 1.5em;
 }
 
+.gradientcontainer {
+  @include gradient;
+}
 .maincontainer {
   background: $white-color;
   height: 100%;
@@ -38,7 +45,7 @@ h2 {
 }
 
 .banner {
-  width: calc(100% + 30px);
+  width: calc(100% + 32px);
   margin: 16px -16px;
   background: center no-repeat;
   background-size: cover;
@@ -55,12 +62,12 @@ h2 {
 }
 
 .geometry {
+  @include clip;
   width: calc(100% + 30px);
   height: 144px;
   margin: -16px;
   background: center no-repeat;
   background-size: cover;
-  clip-path: inset(0 0 72px 0);
 }
 
 .nav-item {
