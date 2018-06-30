@@ -1,6 +1,23 @@
+$white-color: #fff;
+$blue-color: #8195A2;
 
+@mixin gradient {
+  background: #8195A2;
+  background: -moz-linear-gradient(top, $blue-color 0%, $white-color 100%);
+  background: -webkit-linear-gradient(top, $blue-color 0%, $white-color 100%);
+  background: linear-gradient(to bottom, $blue-color 0%, $white-color 100%);
+}
+
+html {
+  height: 100%;
+}
 body{
-  font-family: sans-serif;
+  @include gradient;
+  font-family: 'Merriweather', serif;
   font-size: 1em;
   text-align: center;
+}
+
+.maincontainer {
+  background: $white-color;
 }
