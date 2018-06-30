@@ -10,10 +10,16 @@ $gray-color: #333;
   background: linear-gradient(to bottom, $blue-color 0%, $white-color 100%);
 }
 
-@mixin clip {
+@mixin clip-bottom {
   -webkit-clip-path: inset(0 0 72px 0);
   clip-path: inset(0 0 72px 0);
 }
+
+@mixin clip-top {
+  -webkit-clip-path: inset(72px 0 0 0);
+  clip-path: inset(72px 0 0 0);
+}
+
 
 html {
   height: 100%;
@@ -54,6 +60,7 @@ h2 {
 .gradientcontainer {
   @include gradient;
 }
+
 .maincontainer {
   background: $white-color;
   height: 100%;
@@ -82,33 +89,62 @@ h2 {
 }
 
 .geometry {
-  @include clip;
   width: calc(100% + 30px);
-  height: 144px;
-  margin: -16px -15px;
+  height: 72px;
+  margin: -16px -15px 0 -15px;
   background: center no-repeat;
   background-size: cover;
-}
-
-.nav-item {
-  width: 25%;
 }
 
 .text-container {
   width: 80%;
   max-width: 700px;
-  margin: 0 auto 48px auto;
+  margin: 48px auto 48px auto;
 }
 
 .desktop-nav {
   text-align: center;
   .nav-link {
-    color: $brown-color;
     font-size: 1.2em;
     font-weight: 700;
     &:hover {
       background: $blue-color;
       color: $white-color
     }
+  }
+}
+
+footer {
+
+  height: calc(100% - 72px);
+
+  .footer-inner {
+    border-bottom: solid 0.25em $blue-color;
+    border-top: solid 0.25em $blue-color;
+    margin: 0 -15px;
+
+    .text-container {
+      margin: auto;
+
+      .col-md-6 {
+        margin: 24px auto
+      }
+    }
+  }
+
+  .geometry-top {
+    height: 72px;
+    width: calc(100% + 30px);
+    margin: 0 -15px;
+    background: center no-repeat;
+    background-size: cover;
+  }
+
+  .geometry-bottom {
+    height: 72px;
+    width: calc(100% + 30px);
+    margin: 0 -15px;
+    background: center no-repeat;
+    background-size: cover;
   }
 }

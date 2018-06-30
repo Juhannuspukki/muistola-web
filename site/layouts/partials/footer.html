@@ -1,0 +1,21 @@
+<footer>
+  <div class="geometry-top" style="background-image: url('img/kuvio.svg')">
+  </div>
+  <div class="footer-inner">
+    <div class="row text-container">
+      <div class="col-md-6">
+        Muistola<br>
+        Viitapohjantie 381<br>
+        34240 Kämmenniemi<br>
+        Puh. <a href="tel:+358 040 53 68 966">+358 040 53 68 966</a>
+      </div>
+      <div class="col-md-6">
+        {{ $currentPage := . }}
+        {{ range .Site.Menus.nav }}
+          <a class="" href="{{ .URL }}">{{ .Name }}</a><br>
+        {{ end}}
+      </div>
+    </div>
+  </div>
+  <div class="geometry-bottom" style="background-image: url('img/kuvio.svg')"></div>
+</footer>
