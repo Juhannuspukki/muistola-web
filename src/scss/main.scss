@@ -27,6 +27,14 @@ body {
   color: $gray-color;
 }
 
+a {
+  color: $brown-color;
+
+  &:hover {
+    color: $blue-color;
+  }
+}
+
 h2 {
     font-size: 1.5em;
 }
@@ -45,8 +53,8 @@ h2 {
 }
 
 .banner {
-  width: calc(100% + 32px);
-  margin: 16px -16px;
+  width: calc(100% + 30px);
+  margin: 16px -15px;
   background: center no-repeat;
   background-size: cover;
   min-height: 300px;
@@ -65,7 +73,7 @@ h2 {
   @include clip;
   width: calc(100% + 30px);
   height: 144px;
-  margin: -16px;
+  margin: -16px -15px;
   background: center no-repeat;
   background-size: cover;
 }
