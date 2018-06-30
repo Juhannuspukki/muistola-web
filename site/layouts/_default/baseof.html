@@ -4,7 +4,23 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
     <base href="{{ if getenv "CONTEXT" }}{{ cond (eq "production" (getenv "CONTEXT")) (getenv "URL") (getenv "DEPLOY_PRIME_URL") }}{{ else }}{{ $.Site.BaseURL }}{{ end }}">
-    <title>{{ $.Site.Title }}</title>
+
+    <meta property="og:title" content="{{ .Site.Title }} - {{ .Params.Title }}" />
+    <meta property="og:image" content="{{ .Params.banner }}">
+
+    {{ if .Params.description }}
+    <meta property="description" content="{{ .Params.description }}">
+    <meta property="og:description" content="{{ .Params.description }}">
+    {{ else }}
+    <meta property="description" content="{{ replace .Summary "\n" " " }}">
+    <meta property="og:description" content="{{ replace .Summary "\n" " " }}">
+    {{ end }}
+
+    <meta name="referrer" content="no-referrer">
+    <link rel="canonical" href="{{ .Permalink }}"/>
+
+    <title>{{ .Site.Title }} - {{ .Params.Title }}</title>
+
     <link href="https://fonts.googleapis.com/css?family=Merriweather:400,700,700i" rel="stylesheet">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" integrity="sha384-WskhaSGFgHYWDcbwN70/dfYBj47jz9qbsMId/iRN3ewGhXQFZCSftd1LZCfmhktB" crossorigin="anonymous">
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
