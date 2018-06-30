@@ -1,0 +1,12 @@
+{{ define "main" }}
+
+<div class="banner" style="background-image: url('{{ .Params.banner }}')">
+  <h1>{{ .Params.Title }}</h1>
+</div>
+<div class="geometry" style="background-image: url('img/kuvio.svg')">
+</div>
+<div class="text-container">
+  {{ .Content }}
+</div>
+
+{{end}}

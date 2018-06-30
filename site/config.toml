@@ -23,7 +23,7 @@ disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
     [[menu.nav]]
         identifier = "tietoa"
         name = "Tietoa meistä"
-        url = "/tietoa"
+        url = "/tietoa-muistolasta"
         weight = 3
     [[menu.nav]]
         identifier = "yhteystiedot"
