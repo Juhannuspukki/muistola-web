@@ -13,4 +13,4 @@ Ammattimainen ja tavoitteellinen päivätoimintamme on tarkoitettu omaishoidetta
 
 ## Tule ja tutustu ilmaiseksi!
 
-Tarjoamme kaikille uusille asiakkaille ilmaisen tutusmiskäynnin. Varaa itsellesi tai omaisellesi tutusmiskäynti soittamalla numeroon 040 53 68 966 tai lähettämällä sähköpostia osoitteeseen katri.marjut.koskinen@gmail.com.
+Tarjoamme kaikille uusille asiakkaille ilmaisen tutusmiskäynnin. Varaa itsellesi tai omaisellesi tutusmiskäynti soittamalla numeroon [+358 040 53 68 966](tel:+358 040 53 68 966) tai lähettämällä sähköpostia osoitteeseen [katri.marjut.koskinen@gmail.com](mailto:katri.marjut.koskinen@gmail.com).

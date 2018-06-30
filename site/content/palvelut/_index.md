@@ -42,5 +42,5 @@ Perhehoidon asiakkaille asiakasmaksu määräytyy kotikunnan mukaan. Tamperee
 Hintoihin sisältyy kotiruoka (aamupala, lounas ja iltapäiväkahvit) sekä kaikki päivän aktiviteetit ja huolenpito. Vain kuljetusmaksut ovat erikseen, ja niihin on mahdollista hakea tukea kotikunnalta.
 
 ## Haluatko lisätietoja Muistolan palveluista?
-Parhaiten saat lisätietoja Muistolan palveluista soittamalla numeroon 040 536 8966. Voit soittaa huoletta myös iltaisin virka-ajan ulkopuolella. 
+Parhaiten saat lisätietoja Muistolan palveluista soittamalla numeroon [+358 040 53 68 966](tel:+358 040 53 68 966). Voit soittaa huoletta myös iltaisin virka-ajan ulkopuolella. 
 Tarkempia tietoja Muistolan tiloista ja toimintamenetelmistä löydät Tietoa Muistolasta -sivulta.

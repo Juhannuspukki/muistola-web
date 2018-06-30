@@ -8,8 +8,8 @@ metatitle: Yhteystiedot - Muistola - Kuntouttavaa päivätoimintaa & perhehoitoa
 
 <div class="row">
   <div class="col-md-6">
-## Osoite ja puhelinnumero
 
+## Osoite ja puhelinnumero
 Osoite:<br>
 Muistola<br>
 Katri Koskinen<br>
@@ -17,12 +17,13 @@ Viitapohjantie 381<br>
 34240 Kämmenniemi<br>
 
 Puhelinnumero:<br>
-040 53 68 966
+[+358 040 53 68 966](tel:+358 040 53 68 966)
 
 Sähköposti:<br>
 [katri.marjut.koskinen@gmail.com](mailto:katri.marjut.koskinen@gmail.com)
-</div>
-<div id="map" class="col-md-6"></div>
+
+  </div>
+  <div id="map" class="col-md-6"></div>
 </div>
 ## Kuljetus
 
@@ -30,7 +31,8 @@ Muistolaan voi tulla omalla kyydillä tai taksilla. Autolla pääsee aivan Muist
 
 ## Tule ja tutustu ilmaiseksi!
 
-Tarjoamme kaikille uusille asiakkaille ilmaisen tutusmiskäynnin. Varaa itsellesi tai omaisellesi tutusmiskäynti soittamalla numeroon 040 53 68 966 tai lähettämällä sähköpostia osoitteeseen [katri.marjut.koskinen@gmail.com](mailto:katri.marjut.koskinen@gmail.com).
+Tarjoamme kaikille uusille asiakkaille ilmaisen tutusmiskäynnin. Varaa itsellesi tai omaisellesi tutusmiskäynti soittamalla numeroon [+358 040 53 68 966](tel:+358 040 53 68 966)
+ tai lähettämällä sähköpostia osoitteeseen [katri.marjut.koskinen@gmail.com](mailto:katri.marjut.koskinen@gmail.com).
 
 ## Palaute
 
