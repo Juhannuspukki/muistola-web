@@ -1,5 +1,7 @@
 $white-color: #fff;
 $blue-color: #8195A2;
+$brown-color: #785F4B;
+$gray-color: #333;
 
 @mixin gradient {
   background: #8195A2;
@@ -10,14 +12,76 @@ $blue-color: #8195A2;
 
 html {
   height: 100%;
+  font-size: 14px;
 }
-body{
+
+body {
   @include gradient;
   font-family: 'Merriweather', serif;
   font-size: 1em;
-  text-align: center;
+  text-align: left;
+  color: $gray-color;
+}
+
+h2 {
+    font-size: 1.5em;
 }
 
 .maincontainer {
   background: $white-color;
+  height: 100%;
+}
+
+.logo {
+  width: 100%;
+  margin: 16px 0;
+}
+
+.banner {
+  width: calc(100% + 30px);
+  margin: 16px -16px;
+  background: center no-repeat;
+  background-size: cover;
+  min-height: 300px;
+  border-bottom: solid 0.25em $blue-color;
+
+  h1 {
+    padding-top: 2em;
+    text-align: center;
+    color: $white-color;
+    font-weight: 700;
+    font-style: italic;
+  }
+}
+
+.geometry {
+  width: calc(100% + 30px);
+  height: 144px;
+  margin: -16px;
+  background: center no-repeat;
+  background-size: cover;
+  clip-path: inset(0 0 72px 0);
+}
+
+.nav-item {
+  width: 25%;
+}
+
+.text-container {
+  width: 80%;
+  max-width: 700px;
+  margin: 0 auto 48px auto;
+}
+
+.desktop-nav {
+  text-align: center;
+  .nav-link {
+    color: $brown-color;
+    font-size: 1.2em;
+    font-weight: 700;
+    &:hover {
+      background: $blue-color;
+      color: $white-color
+    }
+  }
 }

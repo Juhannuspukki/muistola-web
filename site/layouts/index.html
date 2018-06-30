@@ -1,9 +1,12 @@
 {{ define "main" }}
 
-<h1>Hugo with Gulp, SASS and Webpack</h1>
-
-<p>
-  Hooray 🎉 - you've built this with <a href="https://github.com/netlify/victor-hugo">Victor-Hugo</a>!
-</p>
+<div class="banner" style="background-image: url('{{ .Params.banner }}')">
+  <h1>{{ .Params.Title }}</h1>
+</div>
+<div class="geometry" style="background-image: url('img/kuvio.svg')">
+</div>
+<div class="text-container">
+  {{ .Content }}
+</div>
 
 {{end}}

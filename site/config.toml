@@ -4,6 +4,29 @@ languageLang = "en"
 title = "My new Victor-Hugo site"
 
 # RSS, categories and tags disabled for an easy start
-# See configuration options for more details: 
+# See configuration options for more details:
 # https://gohugo.io/getting-started/configuration/#toml-configuration
 disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
+
+[menu]
+
+    [[menu.nav]]
+        identifier = "etusivu"
+        name = "Etusivu"
+        url = "/"
+        weight = 1
+    [[menu.nav]]
+        identifier = "palvelut"
+        name = "Palvelut"
+        url = "/palvelut"
+        weight = 2
+    [[menu.nav]]
+        identifier = "tietoa"
+        name = "Tietoa meistä"
+        url = "/tietoa"
+        weight = 3
+    [[menu.nav]]
+        identifier = "yhteystiedot"
+        name = "Yhteystiedot"
+        url = "/yhteystiedot"
+        weight = 4
