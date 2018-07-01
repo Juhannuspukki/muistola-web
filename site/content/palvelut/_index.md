@@ -1,9 +1,8 @@
 ---
-banner: img/palvelumaksu.jpg
 title: Palvelut  ja palvelumaksut
 metatitle: Palvelut - Muistola - Kuntouttavaa päivätoimintaa & perhehoitoa Tampereella
+banner: img/palvelumaksu.jpg
 ---
-
 ## Monipuoliset palvelut arkisin 9–16 tai sopimuksen mukaan
 
 Muistola tarjoaa seuraavia palveluita:
@@ -20,7 +19,7 @@ Tarjoamme säännöllistä, noin 6 tunnin, kuntouttavaa päivätoimintaa ja per
 
 Kuntouttava päivätoiminta on tarkoitettu omaishoidettaville, kotihoidon asiakkaille, yksinäisyydestä ja turvattomuudesta kärsiville ikäihmisille, muistisairaille, AVH-kuntoutujille sekä muille ikäihmisille ja työikäisille, joilla on toimintakykyä alentava sairaus ja/tai tarve kuntouttavalle toiminnalle.<br><br>
 Kuntouttavan päivätoiminnan asiakkaat voivat tulla palveluun joko  omaishoidon palveluseteleillä tai suoraan maksavina. Kotikunnasta voi  myös tiedustella mahdollisuutta tulla päivätoiminnan palveluseteleillä.<br><br>
-Lähtökohta on, että kukaan kotona asuva ei ole liian huonokuntoinen Muistolaan, mutta parhaimmat hyödyt saavutetaan yleensä silloin, kun palveluun hakeudutaan hyvissä ajoin. Jokaisen asiakkaan elämänhistoria ja kiinnostuksen kohteet selvitetään ja niitä hyödynnetään toiminnassa. Lisäksi jokaiselle määritellään päivätoiminnan tavoitteet huomioiden mm. kaupungin laatimat kuntoutus-, palvelu- ja hoitosuunnitelmat. Osana Muistolan päiväkuntoutusta on mahdollista saada myös toimintakyvyn arviointia.
+Lähtökohta on, että kukaan kotona asuva ei ole liian huonokuntoinen Muistolaan, mutta parhaimmat hyödyt saavutetaan yleensä silloin, kun palveluun hakeudutaan hyvissä ajoin. Jokaisen asiakkaan elämänhistoria ja kiinnostuksen kohteet selvitetään ja niitä hyödynnetään toiminnassa. Elämänhistorian ja kiinnostuksen kohteiden selvittäminen on tärkeää etenkin muistioireisten kohdalla. Lisäksi jokaiselle määritellään päivätoiminnan tavoitteet huomioiden mm. kaupungin laatimat kuntoutus-, palvelu- ja hoitosuunnitelmat. Osana Muistolan päiväkuntoutusta on mahdollista saada myös toimintakyvyn arviointia.
 
 ## Osavuorokautinen perhehoito
 
@@ -42,5 +41,6 @@ Perhehoidon asiakkaille asiakasmaksu määräytyy kotikunnan mukaan. Tampereella
 Hintoihin sisältyy kotiruoka (aamupala, lounas ja iltapäiväkahvit) sekä kaikki päivän aktiviteetit ja huolenpito. Vain kuljetusmaksut ovat erikseen, ja niihin on mahdollista hakea tukea kotikunnalta.
 
 ## Haluatko lisätietoja Muistolan palveluista?
-Parhaiten saat lisätietoja Muistolan palveluista soittamalla numeroon [+358 040 53 68 966](tel:+358 040 53 68 966). Voit soittaa huoletta myös iltaisin virka-ajan ulkopuolella. 
+
+Parhaiten saat lisätietoja Muistolan palveluista soittamalla numeroon \[+358 040 53 68 966](tel:+358 040 53 68 966). Voit soittaa huoletta myös iltaisin virka-ajan ulkopuolella. 
 Tarkempia tietoja Muistolan tiloista ja toimintamenetelmistä löydät Tietoa Muistolasta -sivulta.
