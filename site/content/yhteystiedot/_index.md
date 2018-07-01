@@ -14,7 +14,7 @@ Osoite:<br>
 Muistola<br>
 Katri Koskinen<br>
 Viitapohjantie 381<br>
-34240 Kämmenniemi<br>
+34240 Kämmenniemi<br>
 
 Puhelinnumero:<br>
 [+358 040 53 68 966](tel:+358 040 53 68 966)
