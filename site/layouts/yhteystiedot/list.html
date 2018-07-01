@@ -6,7 +6,27 @@
 <div class="geometry" style="background-image: url('img/kuvio.svg')">
 </div>
 <div class="text-container">
-  {{ .Content }}
+  <div class="row">
+    <div class="col-md-6">
+      {{ range first 1 ((where .Site.Pages "Section" "osoite").ByParam "rank") }}
+      <h2>{{ .Params.Title }}</h2>
+      <h2>{{ .Params.subtitle }}</h2>
+      <p>
+        Osoite:
+        {{ .Params.name }}<br>
+        {{ .Params.ceo }}<br>
+        {{ .Params.road }}<br>
+        {{ .Params.city }}<br><br>
+        Puhelin:<br>
+        <a href="tel:{{ .Params.phone }}">{{ .Params.phone }}</a><br><br>
+        Sähköposti:<br>
+        <a href="mailto:{{ .Params.email }}">{{ .Params.email }}</a>
+      </p>
+      {{ end }}
+    </div>
+    <div id="map" class="col-md-6"></div>
+  </div>
+  {{ .Content | markdownify }}
 </div>
 
 <script>

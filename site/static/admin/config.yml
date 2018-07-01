@@ -10,8 +10,9 @@ collections:
     create: false # Allow users to create new documents in this collection
     fields: # The fields for each document, usually in front matter
       - {label: "Otsikko (kuvan päällä)", name: "title", widget: "string"}
-      - {label: "Otsikko (hakukoneille)", name: "metatitle", widget: "string"}
       - {label: "Kuva", name: "banner", widget: "image"}
+      - {label: "Otsikko (hakukoneille)", name: "metatitle", widget: "string"}
+      - {label: "Kuvaus (hakukoneille)", name: "metadescription", widget: "text"}
       - {label: "Sisältö", name: "body", widget: "markdown"}
   - name: "tietoa-muistolasta" # Used in routes, e.g., /admin/collections/blog
     label: "Tietoa Muistolasta" # Used in the UI
@@ -19,8 +20,9 @@ collections:
     create: false # Allow users to create new documents in this collection
     fields: # The fields for each document, usually in front matter
       - {label: "Otsikko (kuvan päällä)", name: "title", widget: "string"}
-      - {label: "Otsikko (hakukoneille)", name: "metatitle", widget: "string"}
       - {label: "Kuva", name: "banner", widget: "image"}
+      - {label: "Otsikko (hakukoneille)", name: "metatitle", widget: "string"}
+      - {label: "Kuvaus (hakukoneille)", name: "metadescription", widget: "text"}
       - {label: "Sisältö", name: "body", widget: "markdown"}
   - name: "yhteystiedot" # Used in routes, e.g., /admin/collections/blog
     label: "Yhteystiedot" # Used in the UI
@@ -28,8 +30,9 @@ collections:
     create: false # Allow users to create new documents in this collection
     fields: # The fields for each document, usually in front matter
       - {label: "Otsikko (kuvan päällä)", name: "title", widget: "string"}
-      - {label: "Otsikko (hakukoneille)", name: "metatitle", widget: "string"}
       - {label: "Kuva", name: "banner", widget: "image"}
+      - {label: "Otsikko (hakukoneille)", name: "metatitle", widget: "string"}
+      - {label: "Kuvaus (hakukoneille)", name: "metadescription", widget: "text"}
       - {label: "Sisältö", name: "body", widget: "markdown"}
   - name: "front-page" # Used in routes, e.g., /admin/collections/blog
     label: "Etusivu" # Used in the UI
@@ -37,6 +40,20 @@ collections:
     create: false # Allow users to create new documents in this collection
     fields: # The fields for each document, usually in front matter
       - {label: "Otsikko (kuvan päällä)", name: "title", widget: "string"}
-      - {label: "Otsikko (hakukoneille)", name: "metatitle", widget: "string"}
       - {label: "Kuva", name: "banner", widget: "image"}
+      - {label: "Otsikko (hakukoneille)", name: "metatitle", widget: "string"}
+      - {label: "Kuvaus (hakukoneille)", name: "metadescription", widget: "text"}
       - {label: "Sisältö", name: "body", widget: "markdown"}
+  - name: "osoite" # Used in routes, e.g., /admin/collections/blog
+    label: "Osoite" # Used in the UI
+    folder: "site/content/osoite" # The path to the folder where the documents are stored
+    create: false # Allow users to create new documents in this collection
+    fields: # The fields for each document, usually in front matter
+      - {label: "Otsikko", name: "title", widget: "string"}
+      - {label: "Alaotsikko", name: "subtitle", widget: "string"}
+      - {label: "Nimi", name: "name", widget: "string"}
+      - {label: "Pomo", name: "ceo", widget: "string"}
+      - {label: "Katu", name: "road", widget: "string"}
+      - {label: "Kylä", name: "city", widget: "string"}
+      - {label: "Puhelin", name: "phone", widget: "string"}
+      - {label: "Sähköposti", name: "email", widget: "string"}
