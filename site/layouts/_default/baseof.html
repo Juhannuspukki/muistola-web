@@ -9,8 +9,8 @@
     <meta property="og:image" content="{{ .Params.banner }}">
 
     {{ if .Params.description }}
-    <meta property="description" content="{{ .Params.description }}">
-    <meta property="og:description" content="{{ .Params.description }}">
+    <meta property="description" content="{{ .Params.metadescription }}">
+    <meta property="og:description" content="{{ .Params.metadescription }}">
     {{ else }}
     <meta property="description" content="{{ replace .Summary "\n" " " }}">
     <meta property="og:description" content="{{ replace .Summary "\n" " " }}">
