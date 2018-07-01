@@ -1,14 +1,15 @@
 ---
-banner: img/tietoaMuistolasta.jpg
 title: Tietoa Muistolan tiloista ja toimintamenetelmistä
-metatitle: Tietoa Muistolasta - Muistola - Kuntouttavaa päivätoimintaa & perhehoitoa Tampereella
+metatitle: >-
+  Tietoa Muistolasta - Muistola - Kuntouttavaa päivätoimintaa & perhehoitoa
+  Tampereella
+banner: img/tietoaMuistolasta.jpg
 ---
-
 ## Oikean kodin tilat kauniissa maalaismaisemissa ja ammattitaitoinen hoitaja
 
 ## Tilat
 
-Muistola on Koskisen perheen oma koti, jossa ei ole laitoismaisuuden häiväkään.  Sijainti Tampereen Teiskon Viitapohjassa puolestaan tarjoaa maaseudun rauhaa ja raikkautta. Vanhan ajan tunnelmaa henkivät tilat ovat uudet, esteettömät, turvalliset ja tilavat. Aidon kodin miljöö vie ajatukset mukaviin muistoihin ja yhdessäoloon sekä aktivoivat monenlaiseen tekemiseen ja liikkumiseen. Kesken päivän on myös mahdollista päästä lepäämään erilliseen makuutilaan. Vanhat esineet ovat näkyvästi esillä Muistolan tiloissa ja ne ovat myös yleisesti käytössä ja kosketeltavissa. Halukkailla on myös mahdollisuus päästä pihapiirissä sijaitsevalle verstaalle, ja tarjolla on muutenkin paljon kiinnostavia asioita niin miehille kuin naisillekin. Suuri ja rauhallinen piha tarjoaa tilaa liikkumiseen ja ulkoilmasta nauttimiseen. Pihapiiristä löytyy myös 500 metriä pitkä metsäpolku nuotiopaikkoineen.
+Muistola on Koskisen perheen oma koti, jossa ei ole laitosmaisuuden häivääkään.  Sijainti Tampereen Teiskon Pohtolassa puolestaan tarjoaa maaseudun rauhaa ja raikkautta. Vanhan ajan tunnelmaa henkivät tilat ovat uudet, esteettömät, turvalliset ja tilavat. Aidon kodin miljöö vie ajatukset mukaviin muistoihin ja yhdessäoloon sekä aktivoivat monenlaiseen tekemiseen ja liikkumiseen. Kesken päivän on myös mahdollista päästä lepäämään erilliseen makuutilaan. Vanhat esineet ovat näkyvästi esillä Muistolan tiloissa, ja ne ovat myös yleisesti käytössä ja kosketeltavissa. Halukkailla on myös mahdollisuus päästä pihapiirissä sijaitsevalle verstaalle, ja tarjolla on muutenkin paljon kiinnostavia asioita niin miehille kuin naisillekin. Suuri ja rauhallinen piha tarjoaa tilaa liikkumiseen ja ulkoilmasta nauttimiseen. Pihapiiristä löytyy myös 500 metriä pitkä metsäpolku nuotiopaikkoineen.
 
 ## Vastuuhenkilö
 
