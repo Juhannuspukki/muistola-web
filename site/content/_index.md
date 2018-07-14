@@ -7,7 +7,9 @@ banner: img/muistola.jpeg
 
 Muistola ei ole vain kodinomainen, vaan ihan oikean perheen oma koti, jonne ikäihmisen on helppo tulla. Vastassa on aina sama tuttu hoitaja, Katri. Saman katon alla kohtaa monta eri sukupolvea, ja siellä voit kokea aidon kodin asioita kuten pullantuoksua ja luonnon ääniä.
 
-Muistola sijaitsee Tampereen Teiskon Pohtolassa, kauniissa maalaismaisemissa, mutta vain lyhyen matkan päässä Tampereen keskustasta. Muistolassa on tarjolla monipuolisia ja kuntouttavia aktiviteetteja leipomisesta käsitöihin ja nikkarointiin, muistelua, paikan päällä laitettua kotiruokaa, ulkoilua sekä iloa ja elämyksiä. Lisäksi Muistolassa on mahdollisuus peseytyä ja saunoa.
+Muistola sijaitsee Tampereen Teiskon Pohtolassa, kauniissa maalaismaisemissa, mutta vain lyhyen matkan päässä Tampereen keskustasta. 
+
+Muistolassa on tarjolla monipuolisia ja kuntouttavia aktiviteetteja leipomisesta käsitöihin ja nikkarointiin, muistelua, musiikkia, paikan päällä laitettua kotiruokaa, ulkoilua sekä iloa ja elämyksiä. Lisäksi Muistolassa on mahdollisuus peseytyä ja saunoa.
 
 Palvelumme ovat saatavilla tamperelaisille ja Tampereen ympäristökunnissa asuville, ja ovemme ovat avoinna arkisin klo 9–16.
 
