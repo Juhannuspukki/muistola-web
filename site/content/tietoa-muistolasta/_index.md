@@ -1,14 +1,19 @@
 ---
 title: Tietoa Muistolan tiloista ja toimintatavoista
+metatitle: >-
+  Tietoa Muistolasta - Muistola - Kuntouttavaa päivätoimintaa & perhehoitoa
+  Tampereella
 banner: img/tietoaMuistolasta.jpg
-metatitle: Tietoa Muistolasta - Muistola - Kuntouttavaa päivätoimintaa & perhehoitoa Tampereella
-metadescription: testi
 ---
 ## Oikean kodin tilat kauniissa maalaismaisemissa ja ammattitaitoinen hoitaja
 
 ## Tilat
 
-Muistola on Koskisen perheen oma koti, jossa ei ole laitosmaisuuden häivääkään. Sijainti Tampereen Teiskon Pohtolassa puolestaan tarjoaa maaseudun rauhaa ja raikkautta. Vanhan ajan tunnelmaa henkivät tilat ovat uudet, esteettömät, turvalliset ja tilavat. Aidon kodin miljöö vie ajatukset mukaviin muistoihin ja yhdessäoloon sekä aktivoivat monenlaiseen tekemiseen ja liikkumiseen. Kesken päivän on myös mahdollista päästä lepäämään erilliseen makuutilaan. Vanhat esineet ovat näkyvästi esillä Muistolan tiloissa, ja ne ovat myös yleisesti käytössä ja kosketeltavissa. Halukkailla on myös mahdollisuus päästä pihapiirissä sijaitsevalle verstaalle, ja tarjolla on muutenkin paljon kiinnostavia asioita niin miehille kuin naisillekin. Suuri ja rauhallinen piha tarjoaa tilaa liikkumiseen ja ulkoilmasta nauttimiseen. Pihapiiristä löytyy myös 500 metriä pitkä metsäpolku nuotiopaikkoineen.
+Muistola on Koskisen perheen oma koti, jossa ei ole laitosmaisuuden häivääkään. Sijainti Tampereen Teiskon Pohtolassa tarjoaa maaseudun rauhaa ja raikkautta. Vanhan ajan tunnelmaa henkivät tilat ovat uudet, esteettömät, turvalliset ja tilavat. Aidon kodin miljöö vie ajatukset mukaviin muistoihin ja yhdessäoloon sekä aktivoivat monenlaiseen tekemiseen ja liikkumiseen. Vanhat esineet ovat näkyvästi esillä Muistolan tiloissa, ja ne ovat myös yleisesti käytössä ja kosketeltavissa.
+
+Kesken päivän on myös mahdollista levätä erillisessä makuutilassa. Halukkailla on myös mahdollisuus päästä pihapiirissä sijaitsevalle verstaalle, ja tarjolla on muutenkin paljon kiinnostavia asioita niin miehille kuin naisillekin. 
+
+Suuri ja rauhallinen piha tarjoaa tilaa liikkumiseen ja ulkoilmasta nauttimiseen. Pihapiiristä löytyy myös 500 metriä pitkä metsäpolku nuotiopaikkoineen.
 
 ## Vastuuhenkilö
 
@@ -24,7 +29,7 @@ Muistolassa huomioimme jokaisen asiakkaan omana ainutlaatuisena  itsenään ja k
 
 Tarvittaessa kannustamme ja ohjaamme asiakkaita omatoimisuuteen, ja kaiken saa tehdä omaan luontaiseen tahtiinsa. Avustustilanteissa noudatamme kinestetiikan oppeja ihmisten luonnollisista liikkumismalleista, niin että  ihminen kokee itsensä aktiiviseksi osallistujaksi.
 
-Fyysisen toimintakyvyn lisäksi yhtä tärkeässä osassa ovat psyykkisten, kognitiivisten ja sosiaalisten kykyjen tukeminen. Yksi Muistolan pääperiaatteista on myönteinen muistelu. Muistelun on todettu vahvistavan itsetuntoa, lisäävän ihmisen ainutlaatuisuuden tunnetta sekä vaikuttavan myönteisesti jopa masennustiloihin. Muistelu lisää  muistisairaiden kommunikointia ja antaa heille mahdollisuuden olla tasavertaisia osallistujia.
+Fyysisen toimintakyvyn lisäksi yhtä tärkeässä osassa ovat psyykkisten, kognitiivisten ja sosiaalisten kykyjen tukeminen. Yksi Muistolan pääperiaatteista on myönteinen muistelu. Muistelun on todettu vahvistavan itsetuntoa, lisäävän ihmisen ainutlaatuisuuden tunnetta sekä vaikuttavan myönteisesti jopa masennustiloihin. Muistelu lisää  muistisairaiden kommunikointia ja antaa heille mahdollisuuden olla tasavertaisia osallistujia. Muistelu myös jäsentää omaa elämää ja identiteettiä. 
 
 Kuntouttavalla toimintatavalla pyritään saavuttamaan ja ylläpitämään toimintakyky, jolla selviää mahdollisimman itsenäisesti omassa ympäristössään sekä sosiaalisissa kontakteissa. Tutkitusti jo pelkkä kotoa lähteminen lisää ikäihmisten elämänlaatua ja toimintakykyä.  Myönteiset vaikutukset ovat suurimmillaan, kun tavoitteellinen ja mielekäs toiminta on yhdistetty tuttuun ryhmään ja miellyttävään paikkaan.
 
