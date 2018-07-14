@@ -9,7 +9,9 @@ banner: img/tietoaMuistolasta.jpg
 
 ## Tilat
 
-Muistola on Koskisen perheen oma koti, jossa ei ole laitosmaisuuden häivääkään. Sijainti Tampereen Teiskon Pohtolassa tarjoaa maaseudun rauhaa ja raikkautta. Vanhan ajan tunnelmaa henkivät tilat ovat uudet, esteettömät, turvalliset ja tilavat. Aidon kodin miljöö vie ajatukset mukaviin muistoihin ja yhdessäoloon sekä aktivoivat monenlaiseen tekemiseen ja liikkumiseen. Vanhat esineet ovat näkyvästi esillä Muistolan tiloissa, ja ne ovat myös yleisesti käytössä ja kosketeltavissa.
+Muistola on Koskisen perheen oma koti, jossa ei ole laitosmaisuuden häivääkään. 
+
+Sijainti Tampereen Teiskon Pohtolassa tarjoaa maaseudun rauhaa ja raikkautta. Vanhan ajan tunnelmaa henkivät tilat ovat uudet, esteettömät, turvalliset ja tilavat. Aidon kodin miljöö vie ajatukset mukaviin muistoihin ja yhdessäoloon sekä aktivoivat monenlaiseen tekemiseen ja liikkumiseen. Vanhat esineet ovat näkyvästi esillä Muistolan tiloissa, ja ne ovat myös yleisesti käytössä ja kosketeltavissa.
 
 Kesken päivän on myös mahdollista levätä erillisessä makuutilassa. Halukkailla on myös mahdollisuus päästä pihapiirissä sijaitsevalle verstaalle, ja tarjolla on muutenkin paljon kiinnostavia asioita niin miehille kuin naisillekin. 
 
