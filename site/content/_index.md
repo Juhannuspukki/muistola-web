@@ -13,7 +13,9 @@ Muistolassa on tarjolla monipuolisia ja kuntouttavia aktiviteetteja leipomisesta
 
 Palvelumme ovat saatavilla tamperelaisille ja Tampereen ympäristökunnissa asuville, ja ovemme ovat avoinna arkisin klo 9–16.
 
-Ammattimainen ja tavoitteellinen päivätoimintamme on tarkoitettu omaishoidettaville, kotihoidon asiakkaille, yksinäisyydestä ja turvattomuudesta kärsiville ikäihmisille, muistisairaille, AVH-kuntoutujille ja muille ikäihmisille, jotka kaipaavat seuraa, iloa ja elämyksiä arkeensa. Lisäksi palvelemme omaishoidon piiriin kuuluvia työikäisiä. Asiakkaat voivat tulla Muistolaan omaishoidon palveluseteleillä, osavuorokautisen perhehoidon asiakkaina tai suoraan maksavina. Muistola on omaishoidon tuen palvelusetelituottaja sekä Aluehallintoviranomaisen rekisteröimä sosiaalipalvelujen tarjoaja.
+Ammattimainen ja tavoitteellinen päivätoimintamme on tarkoitettu omaishoidettaville, kotihoidon asiakkaille, yksinäisyydestä ja turvattomuudesta kärsiville ikäihmisille, muistisairaille, AVH-kuntoutujille ja muille ikäihmisille, jotka kaipaavat seuraa, iloa ja elämyksiä arkeensa. Lisäksi palvelemme omaishoidon piiriin kuuluvia työikäisiä. 
+
+Asiakkaat voivat tulla Muistolaan omaishoidon palveluseteleillä, osavuorokautisen perhehoidon asiakkaina tai suoraan maksavina. Muistola on omaishoidon tuen palvelusetelituottaja sekä Aluehallintoviranomaisen rekisteröimä sosiaalipalvelujen tarjoaja.
 
 ## Tule ja tutustu ilmaiseksi!
 
