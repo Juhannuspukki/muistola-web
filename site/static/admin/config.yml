@@ -13,6 +13,7 @@ collections:
       - {label: "Kuva", name: "banner", widget: "image"}
       - {label: "Otsikko (hakukoneille)", name: "metatitle", widget: "string"}
       - {label: "Kuvaus (hakukoneille)", name: "metadescription", widget: "text"}
+      - {label: "Kuvaus (sosiaaliselle medialle)", name: "ogdescription", widget: "text"}
       - {label: "Sisältö", name: "body", widget: "markdown"}
   - name: "tietoa-muistolasta" # Used in routes, e.g., /admin/collections/blog
     label: "Tietoa Muistolasta" # Used in the UI
@@ -23,6 +24,7 @@ collections:
       - {label: "Kuva", name: "banner", widget: "image"}
       - {label: "Otsikko (hakukoneille)", name: "metatitle", widget: "string"}
       - {label: "Kuvaus (hakukoneille)", name: "metadescription", widget: "text"}
+      - {label: "Kuvaus (sosiaaliselle medialle)", name: "ogdescription", widget: "text"}
       - {label: "Sisältö", name: "body", widget: "markdown"}
   - name: "yhteystiedot" # Used in routes, e.g., /admin/collections/blog
     label: "Yhteystiedot" # Used in the UI
@@ -33,6 +35,7 @@ collections:
       - {label: "Kuva", name: "banner", widget: "image"}
       - {label: "Otsikko (hakukoneille)", name: "metatitle", widget: "string"}
       - {label: "Kuvaus (hakukoneille)", name: "metadescription", widget: "text"}
+      - {label: "Kuvaus (sosiaaliselle medialle)", name: "ogdescription", widget: "text"}
       - {label: "Sisältö", name: "body", widget: "markdown"}
   - name: "front-page" # Used in routes, e.g., /admin/collections/blog
     label: "Etusivu" # Used in the UI
@@ -43,6 +46,7 @@ collections:
       - {label: "Kuva", name: "banner", widget: "image"}
       - {label: "Otsikko (hakukoneille)", name: "metatitle", widget: "string"}
       - {label: "Kuvaus (hakukoneille)", name: "metadescription", widget: "text"}
+      - {label: "Kuvaus (sosiaaliselle medialle)", name: "ogdescription", widget: "text"}
       - {label: "Sisältö", name: "body", widget: "markdown"}
   - name: "osoite" # Used in routes, e.g., /admin/collections/blog
     label: "Osoite" # Used in the UI

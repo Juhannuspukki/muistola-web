@@ -8,13 +8,8 @@
     <meta property="og:title" content="{{ .Params.metatitle }}" />
     <meta property="og:image" content="{{ .Params.banner }}">
 
-    {{ if .Params.description }}
     <meta property="description" content="{{ .Params.metadescription }}">
-    <meta property="og:description" content="{{ .Params.metadescription }}">
-    {{ else }}
-    <meta property="description" content="{{ replace .Summary "\n" " " }}">
-    <meta property="og:description" content="{{ replace .Summary "\n" " " }}">
-    {{ end }}
+    <meta property="og:description" content="{{ .Params.ogdescription }}">
 
     <meta name="referrer" content="no-referrer">
     <link rel="canonical" href="{{ .Permalink }}"/>

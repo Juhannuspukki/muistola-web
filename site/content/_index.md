@@ -2,7 +2,10 @@
 title: Tervetuloa Muistolaan!
 metatitle: Etusivu - Muistola - Kuntouttavaa päivätoimintaa & perhehoitoa Tampereella
 banner: img/muistola.jpeg
+metadescription: Muistola tarjoaa kuntouttavaa päivätoimintaa ja osavuorokautista perhehoitoa ikäihmisille ja omaishoidettaville työikäisille Tampereen Teiskossa. Asiakkaiksi voivat tulla myös Tampereen lähikuntien asukkaat. 
+ogdescription: Muistola tarjoaa kuntouttavaa päivätoimintaa ja osavuorokautista perhehoitoa ikäihmisille ja omaishoidettaville työikäisille Tampereen Teiskon Pohtolassa. Muistola ei ole laitos vaan oikea koti ja se sijaitsee kauniissa maalaismaisemissa. Soita ja varaa ilmainen tutustumiskäynti!
 ---
+
 ## Kuntouttavaa päivätoimintaa ja perhehoitoa aidossa kodissa Tampereen Teiskossa
 
 Muistola ei ole vain kodinomainen, vaan ihan oikean perheen oma koti, jonne ikäihmisen on helppo tulla. Vastassa on aina sama tuttu hoitaja, Katri. Saman katon alla kohtaa monta eri sukupolvea, ja siellä voit kokea aidon kodin asioita kuten pullantuoksua ja luonnon ääniä.
@@ -19,4 +22,4 @@ Asiakkaat voivat tulla Muistolaan omaishoidon palveluseteleillä, osavuorokautis
 
 ## Tule ja tutustu ilmaiseksi!
 
-Tarjoamme kaikille uusille asiakkaille ilmaisen tutusmiskäynnin. Varaa itsellesi ja omaisellesi tutusmiskäynti soittamalla numeroon \[+358 040 53 68 966](tel:+358 040 53 68 966) tai lähettämällä sähköpostia osoitteeseen <mailto:katri.marjut.koskinen@gmail.com>.
+Tarjoamme kaikille uusille asiakkaille ilmaisen tutusmiskäynnin. Varaa itsellesi ja omaisellesi tutusmiskäynti soittamalla numeroon [+358 40 53 68 966](tel:+358405368966) tai lähettämällä sähköpostia osoitteeseen <mailto:katri.marjut.koskinen@gmail.com>.

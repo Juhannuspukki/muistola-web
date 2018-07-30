@@ -2,6 +2,8 @@
 title: Palvelut  ja palvelumaksut
 metatitle: Palvelut - Muistola - Kuntouttavaa päivätoimintaa & perhehoitoa Tampereella
 banner: img/palvelumaksu.jpg
+metadescription: Muistola tarjoaa kuntouttavaa päivätoimintaa, osavuorokautista perhehoitoa sekä toimintakyvyn arviointia. Lisäpalveluina on myös sauna-, pesu-, ja pyykkipalvelut.
+ogdescription: Muistola tarjoaa kuntouttavaa päivätoimintaa ja osavuorokautista perhehoitoa Tampereen Teiskossa. Muistolaan ovat tervetulleita kaikki kotona asuvat ikäihmiset, jotka kaipaavat kuntoutusta, toimintakyvyn ylläpitämistä, sosiaalisia suhteita tai iloa ja elämyksiä arkea piristämään.
 ---
 ## Monipuoliset palvelut arkisin 9–16 tai sopimuksen mukaan
 
@@ -54,5 +56,5 @@ Hintoihin sisältyy kotiruoka (aamupala, lounas ja iltapäiväkahvit) sekä kaik
 
 ## Haluatko lisätietoja Muistolan palveluista?
 
-Parhaiten saat lisätietoja Muistolan palveluista soittamalla numeroon \[+358 040 53 68 966](tel:+358 040 53 68 966). Voit soittaa huoletta myös iltaisin virka-ajan ulkopuolella. 
+Parhaiten saat lisätietoja Muistolan palveluista soittamalla numeroon [+358 40 53 68 966](tel:+358405368966). Voit soittaa huoletta myös iltaisin virka-ajan ulkopuolella. 
 Tarkempia tietoja Muistolan tiloista ja toimintamenetelmistä löydät Tietoa Muistolasta -sivulta.
