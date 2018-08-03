@@ -10,23 +10,28 @@ disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
 
 [menu]
 
-    [[menu.nav]]
+    [[menu.main]]
         identifier = "etusivu"
         name = "Etusivu"
         url = "/"
         weight = 1
-    [[menu.nav]]
+    [[menu.main]]
         identifier = "palvelut"
         name = "Palvelut"
-        url = "/palvelut"
+        url = "/palvelut/"
         weight = 2
-    [[menu.nav]]
+        [[menu.main]]
+            name = "Kuntouttava päivätoiminta"
+            parent = "palvelut"
+            identifier = "kuntouttava"
+            url = "/palvelut/#kuntouttava-päivätoiminta"
+    [[menu.main]]
         identifier = "tietoa"
         name = "Tietoa meistä"
-        url = "/tietoa-muistolasta"
+        url = "/tietoa-muistolasta/"
         weight = 3
-    [[menu.nav]]
+    [[menu.main]]
         identifier = "yhteystiedot"
         name = "Yhteystiedot"
-        url = "/yhteystiedot"
+        url = "/yhteystiedot/"
         weight = 4

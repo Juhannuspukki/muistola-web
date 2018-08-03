@@ -11,7 +11,7 @@
       </div>
       <div class="col-md-6">
         {{ $currentPage := . }}
-        {{ range .Site.Menus.nav }}
+        {{ range .Site.Menus.main }}
           <a class="" href="{{ .URL }}">{{ .Name }}</a><br>
         {{ end}}
       </div>

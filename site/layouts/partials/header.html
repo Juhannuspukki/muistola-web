@@ -8,8 +8,47 @@
   </div>
   <div class="row">
     {{ $currentPage := . }}
-    {{ range .Site.Menus.nav }}
-     <a class="col-md-3 nav-link {{ if $currentPage.HasMenuCurrent "nav" . }}active{{ end }}" href="{{ .URL }}">{{ .Name }}</a>
+    {{ range .Site.Menus.main }}
+      <a class="col-md-3 nav-link {{ if or ($.IsMenuCurrent "main" .) ($.HasMenuCurrent "main" .) }}active{{ end }}" href="{{ .URL }}">{{ .Name }}</a>
     {{ end}}
   </div>
 </div>
+<nav class="navbar navbar-expand-lg fixed-top navbar-light">
+  <a class="navbar-brand" href="#"><img src="img/logo.svg"height="50" alt=""></a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+
+  <div class="collapse navbar-collapse" id="navbarSupportedContent">
+    <ul class="navbar-nav mr-auto">
+      <li class="nav-item">
+        <a class="nav-link" href="/">Etusivu</a>
+      </li>
+      <li class="nav-item dropdown">
+        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+          Palvelut
+        </a>
+        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+          <a class="dropdown-item" href="/palvelut/#kuntouttava-päivätoiminta">Kuntouttava päivätoiminta</a>
+          <a class="dropdown-item" href="/palvelut/#osavuorokautinen-perhehoito">Osavuorokautinen perhehoito</a>
+          <a class="dropdown-item" href="/palvelut/#sauna-pesu-ja-pyykkipalvelu">Sauna-, pesu- ja pyykkipalvelu</a>
+          <a class="dropdown-item" href="/palvelut/#toimintakyvyn-arviointi">Toimintakyvyn arviointi</a>
+        </div>
+      </li>
+      <li class="nav-item dropdown">
+        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown2" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+          Tietoa meistä
+        </a>
+        <div class="dropdown-menu" aria-labelledby="navbarDropdown2">
+          <a class="dropdown-item" href="/tietoa-muistolasta/#tilat">Tilat</a>
+          <a class="dropdown-item" href="/tietoa-muistolasta/#vastuuhenkilö">Vastuuhenkilö</a>
+          <a class="dropdown-item" href="/tietoa-muistolasta/#toimintaperiaate">Toimintaperiaate</a>
+          <a class="dropdown-item" href="/tietoa-muistolasta/#arvot">Arvot</a>
+        </div>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="/yhteystiedot">Yhteystiedot</a>
+      </li>
+    </ul>
+  </div>
+</nav>

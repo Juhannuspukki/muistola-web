@@ -2,6 +2,7 @@ $white-color: #fff;
 $blue-color: #8195A2;
 $blue-color-transparent: #8195A280;
 $brown-color: #785F4B;
+$brown-color-transparent: #785F4B60;
 $gray-color: #333;
 
 @mixin gradient {
@@ -74,7 +75,7 @@ h2 {
 
 .banner {
   width: calc(100% + 30px);
-  margin: 16px -15px;
+  margin: 0px -15px 16px -15px;
   background: center no-repeat;
   background-size: cover;
   min-height: 300px;
@@ -106,13 +107,21 @@ h2 {
 
 .desktop-nav {
   text-align: center;
+  .row:first-of-type {
+    margin-bottom: 15px;
+  }
   .nav-link {
+    padding: 20px;
     font-size: 1.2em;
     font-weight: 700;
     &:hover {
       background: $blue-color;
       color: $white-color
     }
+  }
+  .active {
+    background: $blue-color;
+    color: $white-color
   }
 }
 
@@ -149,4 +158,54 @@ footer {
     background: center no-repeat;
     background-size: cover;
   }
+}
+
+@media (min-width: 768px) {
+  .navbar {
+    display: none;
+  }
+}
+
+@media (max-width: 767px) {
+  footer {
+    text-align: center;
+  }
+  .desktop-nav {
+    display: none;
+  }
+  .navbar {
+    background-color: #fff;
+    border-bottom: 1px solid $blue-color;
+    .navbar-nav {
+      .nav-item {
+        border-top: 1px solid $blue-color-transparent;
+        .nav-link {
+          padding: 20px 0;
+          color: $brown-color;
+          text-align: center;
+        }
+        .dropdown-item {
+          padding: 15px 0;
+          color: $blue-color;
+          text-align: center;
+        }
+      }
+      .nav-item:first-of-type {
+        border: 0;
+      }
+    }
+    .dropdown-menu {
+      border: 0;
+    }
+  }
+  .banner {
+    margin-top: 73px;
+  }
+}
+
+:target:before {
+  content:"";
+  display:block;
+  height:90px; /* fixed header height*/
+  margin:-90px 0 0; /* negative fixed header height */
 }
