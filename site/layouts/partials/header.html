@@ -6,11 +6,21 @@
     </div>
     <div class="col-md-4"></div>
   </div>
-  <div class="row">
+  <div class="row main-nav">
     {{ $currentPage := . }}
     {{ range .Site.Menus.main }}
-      <a class="col-md-3 nav-link {{ if or ($.IsMenuCurrent "main" .) ($.HasMenuCurrent "main" .) }}active{{ end }}" href="{{ .URL }}">{{ .Name }}</a>
-    {{ end}}
+    <a class="col-md-3 nav-link {{ if or ($.IsMenuCurrent "main" .) ($.HasMenuCurrent "main" .) }}active{{ end }}" href="{{ .URL }}">{{ .Name }}</a>
+    {{ end }}
+  </div>
+  <div class="sub-nav">
+        {{ $currentPage := . }}
+        {{ range .Site.Menus.main }}
+        {{ if or ($.IsMenuCurrent "main" .) ($.HasMenuCurrent "main" .) }}
+        {{ range .Children }}
+        <a class="sub-nav-item" href="{{ .URL }}">{{ .Name }}</a>
+        {{ end }}
+        {{ end }}
+        {{ end }}
   </div>
 </div>
 <nav class="navbar navbar-expand-lg fixed-top navbar-light">

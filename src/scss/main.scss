@@ -123,6 +123,19 @@ h2 {
     background: $blue-color;
     color: $white-color
   }
+  .sub-nav {
+    .sub-nav-item {
+        line-height: 42px;
+        padding: 12px;
+        font-weight: 700;
+        color: $blue-color;
+        &:hover {
+          text-decoration: none;
+          background: $blue-color;
+          color: $white-color
+        }
+    }
+  }
 }
 
 footer {
@@ -158,6 +171,13 @@ footer {
     background: center no-repeat;
     background-size: cover;
   }
+}
+
+.image-container {
+  width: 50%;
+  float: right;
+  margin: 63px 0 24px 24px;
+  border: 1px solid $blue-color;
 }
 
 @media (min-width: 768px) {
@@ -201,11 +221,7 @@ footer {
   .banner {
     margin-top: 73px;
   }
-}
-
-:target:before {
-  content:"";
-  display:block;
-  height:90px; /* fixed header height*/
-  margin:-90px 0 0; /* negative fixed header height */
+  .image-container {
+    width: 100%;
+  }
 }

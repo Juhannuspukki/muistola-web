@@ -9,7 +9,6 @@ title = "Muistola"
 disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
 
 [menu]
-
     [[menu.main]]
         identifier = "etusivu"
         name = "Etusivu"
@@ -21,15 +20,70 @@ disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
         url = "/palvelut/"
         weight = 2
         [[menu.main]]
-            name = "Kuntouttava päivätoiminta"
+            name = "Päivätoiminta"
             parent = "palvelut"
             identifier = "kuntouttava"
             url = "/palvelut/#kuntouttava-päivätoiminta"
+            weight = 1
+        [[menu.main]]
+            name = "Perhehoito"
+            parent = "palvelut"
+            identifier = "perhehoito"
+            url = "/palvelut/#osavuorokautinen-perhehoito"
+            weight = 2
+        [[menu.main]]
+            name = "Pesupalvelu"
+            parent = "palvelut"
+            identifier = "pyykkipalvelu"
+            url = "/palvelut/#sauna-pesu-ja-pyykkipalvelu"
+            weight = 3
+        [[menu.main]]
+            name = "Toimintakyvyn arviointi"
+            parent = "palvelut"
+            identifier = "arviointi"
+            url = "/palvelut/#toimintakyvyn-arviointi"
+            weight = 4
+        [[menu.main]]
+            name = "Palvelumaksut"
+            parent = "palvelut"
+            identifier = "palvelumaksut"
+            url = "/palvelut/#palvelumaksut"
+            weight = 5
     [[menu.main]]
         identifier = "tietoa"
         name = "Tietoa meistä"
         url = "/tietoa-muistolasta/"
         weight = 3
+        [[menu.main]]
+            name = "Tilat"
+            parent = "tietoa"
+            identifier = "tilat"
+            url = "/tietoa-muistolasta/#tilat"
+            weight = 1
+        [[menu.main]]
+            name = "Vastuuhenkilö"
+            parent = "tietoa"
+            identifier = "vastuuhenkilö"
+            url = "/tietoa-muistolasta/#vastuuhenkilö"
+            weight = 2
+        [[menu.main]]
+            name = "Toimintaperiaate"
+            parent = "tietoa"
+            identifier = "toimintaperiaate"
+            url = "/tietoa-muistolasta/#toimintaperiaate"
+            weight = 3
+        [[menu.main]]
+            name = "Arvot"
+            parent = "tietoa"
+            identifier = "arvot"
+            url = "/tietoa-muistolasta/#arvot"
+            weight = 4
+        [[menu.main]]
+            name = "Historia"
+            parent = "tietoa"
+            identifier = "historia"
+            url = "/tietoa-muistolasta/#historia"
+            weight = 5
     [[menu.main]]
         identifier = "yhteystiedot"
         name = "Yhteystiedot"

@@ -6,7 +6,14 @@
 <div class="geometry" style="background-image: url('img/ristikko.svg')">
 </div>
 <div class="text-container">
-  {{ .Content | markdownify }}
+{{ range ((where .Site.Pages "Section" "lista-palveluista").ByParam "rank") }}
+    <div>
+      {{ if .Params.banner }}
+      <img src='{{ .Params.banner }}' class="image-container">
+      {{ end }}
+        {{ .Content | markdownify }}
+    </div>
+{{ end }}
 </div>
 
 {{end}}
