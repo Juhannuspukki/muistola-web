@@ -1,6 +1,6 @@
 ---
 rank: 3
-
+banner: img/Silitys.jpg
 ---
 
 ## Sauna-, pesu- ja pyykkipalvelu

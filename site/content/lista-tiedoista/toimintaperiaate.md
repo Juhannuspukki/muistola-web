@@ -1,5 +1,6 @@
 ---
 rank: 3
+banner: img/Aivojumppa.jpg
 
 ---
 

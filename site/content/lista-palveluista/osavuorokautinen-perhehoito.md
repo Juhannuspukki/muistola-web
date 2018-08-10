@@ -1,6 +1,6 @@
 ---
 rank: 2
-
+banner: img/Perunankuorinta.jpg
 ---
 ## Osavuorokautinen perhehoito
 

@@ -1,6 +1,6 @@
 ---
 rank: 5
-
+banner: img/kasvikirja.jpg
 ---
 
 ## Historia
