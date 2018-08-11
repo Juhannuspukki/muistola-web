@@ -7,15 +7,15 @@
 <div class="geometry" style="background-image: url('img/ristikko.svg')">
 </div>
 <div class="text-container">
-{{ range ((where .Site.Pages "Section" "lista-palveluista").ByParam "rank") }}
+  {{ range ((where .Site.Pages "Section" "lista-palveluista").ByParam "rank") }}
     <div>
-      <h2>{{ .Params.Title }}</h2>
+      <h2 id="{{ .Params.rank }}">{{ .Params.Title }}</h2>
       {{ if .Params.banner }}
       <img src='{{ .Params.banner }}' class="image-container">
       {{ end }}
         {{ .Content | markdownify }}
     </div>
-{{ end }}
+  {{ end }}
 </div>
 
 {{end}}
