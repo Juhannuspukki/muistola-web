@@ -1,9 +1,8 @@
 ---
+title: Palvelumaksut
 rank: 5
 banner: img/Kirjoituskone.jpg
 ---
-
-## Palvelumaksut
 
 Asiakkaat voivat tulla Muistolaan omaishoidon palveluseteleillä, osavuorokautisen perhehoidon asiakkaina tai suoraan maksavina.
 

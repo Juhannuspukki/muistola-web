@@ -1,9 +1,8 @@
 ---
+title: Tilat
 banner: img/Virkkaus.jpg
 rank: 1
 ---
-
-## Tilat
 
 Muistola on Koskisen perheen oma koti, jossa ei ole laitosmaisuuden häivääkään. 
 

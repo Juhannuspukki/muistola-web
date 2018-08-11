@@ -1,8 +1,8 @@
 ---
+title: Monipuoliset palvelut arkisin 9–16 tai sopimuksen mukaan
 banner: img/Kiehinen.jpg
 rank: 0
 ---
-## Monipuoliset palvelut arkisin 9–16 tai sopimuksen mukaan
 
 Muistola tarjoaa seuraavia palveluita:
 

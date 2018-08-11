@@ -9,6 +9,7 @@
 <div class="text-container">
 {{ range ((where .Site.Pages "Section" "lista-palveluista").ByParam "rank") }}
     <div>
+      <h2>{{ .Params.Title }}</h2>
       {{ if .Params.banner }}
       <img src='{{ .Params.banner }}' class="image-container">
       {{ end }}

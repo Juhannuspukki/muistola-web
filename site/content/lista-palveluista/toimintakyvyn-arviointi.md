@@ -1,9 +1,8 @@
 ---
+title: Toimintakyvyn arviointi
 rank: 4
 banner: img/Arvuuttelu.jpg
 ---
-
-## Toimintakyvyn arviointi
 
 Osana Muistolan kuntouttavaa päivätoimintaa on mahdollista saada myös toimintakyvyn arviointia. Valitsemme asiakkaalle parhaiten sopivat arviointi- ja kuntoutusmenetelmät sen pohjalta, missä arjen asioissa asiakas itse kokee tarvitsevansa apua. 
 

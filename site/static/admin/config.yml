@@ -31,6 +31,7 @@ collections:
     folder: "site/content/lista-palveluista" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     fields: # The fields for each document, usually in front matter
+      - {label: "Otsikko", name: "title", widget: "string"}
       - {label: "Kuva", name: "banner", widget: "image", required: "false"}
       - {label: "Järjestysnumero", name: "rank", widget: "number", valueType: 'int'}
       - {label: "Sisältö", name: "body", widget: "markdown"}
@@ -39,6 +40,7 @@ collections:
     folder: "site/content/lista-tiedoista" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     fields: # The fields for each document, usually in front matter
+      - {label: "Otsikko", name: "title", widget: "string"}
       - {label: "Kuva", name: "banner", widget: "image", required: "false"}
       - {label: "Järjestysnumero", name: "rank", widget: "number", valueType: 'int'}
       - {label: "Sisältö", name: "body", widget: "markdown"}

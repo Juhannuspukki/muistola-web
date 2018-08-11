@@ -1,9 +1,8 @@
 ---
+title: Arvot
 rank: 4
 banner: img/Kielo.jpg
 ---
-
-## Arvot
 
 Muistolassa iäkäs ihminen on aina, omien voimavarojensa mukaisesti,  osallistuja ja toimija, jolla on omat tavoitteet, kiinnostuksen kohteet  ja toimintatavat.
 

@@ -1,8 +1,8 @@
 ---
+title: Kuntouttava päivätoiminta
 banner: img/Virkkaus.jpg
 rank: 1
 ---
-## Kuntouttava päivätoiminta
 
 Kuntouttava päivätoiminta on tarkoitettu omaishoidettaville, kotihoidon asiakkaille, yksinäisyydestä ja turvattomuudesta kärsiville ikäihmisille, muistisairaille, AVH-kuntoutujille sekä muille kotona asuville ikäihmisille ja työikäisille, joilla on toimintakykyä alentava sairaus ja/tai tarve kuntouttavalle toiminnalle.
 
