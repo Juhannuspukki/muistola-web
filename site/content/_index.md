@@ -1,22 +1,28 @@
 ---
 title: Tervetuloa Muistolaan!
-metatitle: Etusivu - Muistola - Kuntouttavaa päivätoimintaa & perhehoitoa Tampereella
 banner: img/muistola.jpeg
-metadescription: Muistola tarjoaa kuntouttavaa päivätoimintaa ja osavuorokautista perhehoitoa ikäihmisille ja omaishoidettaville työikäisille Tampereen Teiskossa. Asiakkaiksi voivat tulla myös Tampereen lähikuntien asukkaat. 
-ogdescription: Muistola tarjoaa kuntouttavaa päivätoimintaa ja osavuorokautista perhehoitoa ikäihmisille ja omaishoidettaville työikäisille Tampereen Teiskon Pohtolassa. Muistola ei ole laitos vaan oikea koti ja se sijaitsee kauniissa maalaismaisemissa. Soita ja varaa ilmainen tutustumiskäynti!
+metatitle: Etusivu - Muistola - Kuntouttavaa päivätoimintaa & perhehoitoa Tampereella
+metadescription: >-
+  Muistola tarjoaa kuntouttavaa päivätoimintaa ja osavuorokautista perhehoitoa
+  ikäihmisille ja omaishoidettaville työikäisille Tampereen Teiskossa.
+  Asiakkaiksi voivat tulla myös Tampereen lähikuntien asukkaat.
+ogdescription: >-
+  Muistola tarjoaa kuntouttavaa päivätoimintaa ja osavuorokautista perhehoitoa
+  ikäihmisille ja omaishoidettaville työikäisille Tampereen Teiskon Pohtolassa.
+  Muistola ei ole laitos vaan oikea koti ja se sijaitsee kauniissa
+  maalaismaisemissa. Soita ja varaa ilmainen tutustumiskäynti!
 ---
-
 ## Kuntouttavaa päivätoimintaa ja perhehoitoa aidossa kodissa Tampereen Teiskossa
 
-Muistola ei ole vain kodinomainen, vaan ihan oikean perheen oma koti, jonne ikäihmisen on helppo tulla. Vastassa on aina sama tuttu hoitaja, Katri. Saman katon alla kohtaa monta eri sukupolvea, ja siellä voit kokea aidon kodin asioita kuten pullantuoksua ja luonnon ääniä.
+Muistola on aidosti kodinomainen palvelu, jonne ikäihmisen on helppo tulla. Vastassa on aina sama tuttu hoitaja, Katri. Saman katon alla kohtaa monta eri sukupolvea, ja siellä voit kokea aidon kodin asioita kuten pullantuoksua ja takkatulen lämpöä.
 
 Muistola sijaitsee Tampereen Teiskon Pohtolassa, kauniissa maalaismaisemissa, mutta vain lyhyen matkan päässä Tampereen keskustasta. 
 
-Muistolassa on tarjolla monipuolisia ja kuntouttavia aktiviteetteja leipomisesta käsitöihin ja nikkarointiin, muistelua, musiikkia, paikan päällä laitettua kotiruokaa, ulkoilua sekä iloa ja elämyksiä. Lisäksi Muistolassa on mahdollisuus peseytyä ja saunoa.
+Muistolassa on tarjolla monipuolisia ja kuntouttavia aktiviteetteja leipomisesta käsitöihin ja nikkarointiin, muistelua, musiikkia, lihaskunto- ja tasapainoharjoituksia, muistiharjoituksia, aivojumppaliikkeitä, paikan päällä laitettua kotiruokaa, ulkoilua sekä iloa ja elämyksiä. Lisäksi Muistolassa on mahdollisuus peseytyä ja saunoa.
 
 Palvelumme ovat saatavilla tamperelaisille ja Tampereen ympäristökunnissa asuville, ja ovemme ovat avoinna arkisin klo 9–16.
 
-Ammattimainen ja tavoitteellinen päivätoimintamme on tarkoitettu omaishoidettaville, kotihoidon asiakkaille, yksinäisyydestä ja turvattomuudesta kärsiville ikäihmisille, muistisairaille, AVH-kuntoutujille ja muille ikäihmisille, jotka kaipaavat seuraa, iloa ja elämyksiä arkeensa. Lisäksi palvelemme omaishoidon piiriin kuuluvia työikäisiä. 
+Ammattimainen ja tavoitteellinen päivätoimintamme on tarkoitettu omaishoidettaville, kotihoidon asiakkaille, yksinäisyydestä ja turvattomuudesta kärsiville ikäihmisille, muistisairaille, AVH-kuntoutujille ja muille ikäihmisille, jotka kaipaavat seuraa, kuntouttavaa toimintaa sekä iloa ja elämyksiä arkeensa. Lisäksi palvelemme omaishoidon piiriin kuuluvia työikäisiä. 
 
 Asiakkaat voivat tulla Muistolaan omaishoidon palveluseteleillä, osavuorokautisen perhehoidon asiakkaina tai suoraan maksavina. Muistola on omaishoidon tuen palvelusetelituottaja sekä Aluehallintoviranomaisen rekisteröimä sosiaalipalvelujen tarjoaja.
 
