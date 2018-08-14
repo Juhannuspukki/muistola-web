@@ -14,7 +14,7 @@ ogdescription: >-
 ---
 ## Kuntouttavaa päivätoimintaa ja perhehoitoa aidossa kodissa Tampereen Teiskossa
 
-Muistola on aidosti kodinomainen palvelu, jonne ikäihmisen on helppo tulla. Vastassa on aina sama tuttu hoitaja, Katri. Saman katon alla kohtaa monta eri sukupolvea, ja siellä voit kokea aidon kodin asioita kuten pullantuoksua ja takkatulen lämpöä.
+Muistola on aidosti kodinomainen palvelu, jonne ikäihmisen on helppo tulla. Vastassa on aina sama tuttu hoitaja, Katri. Saman katon alla kohtaa monta eri sukupolvea, ja siellä voit kokea oikean kodin asioita kuten pullantuoksua ja takkatulen lämpöä.
 
 Muistola sijaitsee Tampereen Teiskon Pohtolassa, kauniissa maalaismaisemissa, mutta vain lyhyen matkan päässä Tampereen keskustasta. 
 
