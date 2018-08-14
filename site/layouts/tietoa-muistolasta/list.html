@@ -11,7 +11,7 @@
   <div>
     <h2 id="{{ .Params.rank }}">{{ .Params.Title }}</h2>
     {{ if .Params.banner }}
-    <img src='{{ .Params.banner }}' class="image-container">
+    <img src='{{ .Params.banner }}' class="image-container {{ if .Params.hiddenondesktop }}hidden-on-desktop{{ end }}">
     {{ end }}
     {{ .Content | markdownify }}
   </div>

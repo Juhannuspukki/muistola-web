@@ -23,31 +23,31 @@ disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
             name = "Päivätoiminta"
             parent = "palvelut"
             identifier = "kuntouttava"
-            url = "/palvelut/#1"
+            url = "/palvelut/#2"
             weight = 1
         [[menu.main]]
             name = "Perhehoito"
             parent = "palvelut"
             identifier = "perhehoito"
-            url = "/palvelut/#2"
+            url = "/palvelut/#3"
             weight = 2
         [[menu.main]]
             name = "Pesupalvelu"
             parent = "palvelut"
             identifier = "pyykkipalvelu"
-            url = "/palvelut/#3"
+            url = "/palvelut/#4"
             weight = 3
         [[menu.main]]
             name = "Toimintakyvyn arviointi"
             parent = "palvelut"
             identifier = "arviointi"
-            url = "/palvelut/#4"
+            url = "/palvelut/#5"
             weight = 4
         [[menu.main]]
             name = "Palvelumaksut"
             parent = "palvelut"
             identifier = "palvelumaksut"
-            url = "/palvelut/#5"
+            url = "/palvelut/#6"
             weight = 5
     [[menu.main]]
         identifier = "tietoa"
@@ -58,31 +58,31 @@ disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
             name = "Tilat"
             parent = "tietoa"
             identifier = "tilat"
-            url = "/tietoa-muistolasta/#1"
+            url = "/tietoa-muistolasta/#2"
             weight = 1
         [[menu.main]]
             name = "Vastuuhenkilö"
             parent = "tietoa"
             identifier = "vastuuhenkilö"
-            url = "/tietoa-muistolasta/#2"
+            url = "/tietoa-muistolasta/#3"
             weight = 2
         [[menu.main]]
             name = "Toimintaperiaate"
             parent = "tietoa"
             identifier = "toimintaperiaate"
-            url = "/tietoa-muistolasta/#3"
+            url = "/tietoa-muistolasta/#4"
             weight = 3
         [[menu.main]]
             name = "Arvot"
             parent = "tietoa"
             identifier = "arvot"
-            url = "/tietoa-muistolasta/#4"
+            url = "/tietoa-muistolasta/#5"
             weight = 4
         [[menu.main]]
             name = "Historia"
             parent = "tietoa"
             identifier = "historia"
-            url = "/tietoa-muistolasta/#5"
+            url = "/tietoa-muistolasta/#6"
             weight = 5
     [[menu.main]]
         identifier = "yhteystiedot"

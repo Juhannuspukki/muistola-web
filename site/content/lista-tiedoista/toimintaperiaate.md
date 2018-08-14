@@ -2,7 +2,7 @@
 title: Toimintaperiaate
 rank: 4
 banner: img/Aivojumppa.jpg
-
+hiddenondesktop: true
 ---
 
 Muistola tarjoaa iloa, elämyksiä, monipuolisia aktiviteetteja sekä osallisuuden tunteen tutussa ja turvallisessa ryhmässä. Kuntouttava toiminta kuuluu kaikkeen Muistolan tekemiseen.

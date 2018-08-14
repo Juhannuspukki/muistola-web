@@ -1,6 +1,7 @@
 ---
 title: Tilat
 banner: /img/kuva-2624_mv.jpg
+hiddenondesktop: false
 rank: 2
 ---
 Muistola on Koskisen perheen pihapiiriistä löytyvä tunnelmallinen rakennus, jossa ei ole laitosmaisuuden häivääkään. 

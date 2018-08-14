@@ -186,7 +186,7 @@ footer {
 }
 
 @media (min-width: 768px) {
-  .navbar {
+  .navbar, .hidden-on-desktop {
     display: none;
   }
 }
