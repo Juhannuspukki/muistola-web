@@ -34,7 +34,7 @@ collections:
       - {label: "Otsikko", name: "title", widget: "string"}
       - {label: "Kuva", name: "banner", widget: "image", required: "false"}
       - {label: "Järjestysnumero", name: "rank", widget: "number", valueType: 'int'}
-      - {label: "Sisältö", name: "body", widget: "markdown"}
+      - {label: "Sisältö", name: "body", widget: "markdown", required: "false"}
   - name: "lista-tiedoista" # Used in routes, e.g., /admin/collections/blog
     label: "Lista tiedoista" # Used in the UI
     folder: "site/content/lista-tiedoista" # The path to the folder where the documents are stored
@@ -43,7 +43,7 @@ collections:
       - {label: "Otsikko", name: "title", widget: "string"}
       - {label: "Kuva", name: "banner", widget: "image", required: "false"}
       - {label: "Järjestysnumero", name: "rank", widget: "number", valueType: 'int'}
-      - {label: "Sisältö", name: "body", widget: "markdown"}
+      - {label: "Sisältö", name: "body", widget: "markdown", required: "false"}
   - name: "yhteystiedot" # Used in routes, e.g., /admin/collections/blog
     label: "Yhteystiedot" # Used in the UI
     folder: "site/content/yhteystiedot" # The path to the folder where the documents are stored

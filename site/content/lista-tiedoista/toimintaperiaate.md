@@ -1,6 +1,6 @@
 ---
 title: Toimintaperiaate
-rank: 3
+rank: 4
 banner: img/Aivojumppa.jpg
 
 ---

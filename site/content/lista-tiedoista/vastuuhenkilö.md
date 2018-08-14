@@ -1,6 +1,6 @@
 ---
 title: Vastuuhenkilö
-rank: 2
+rank: 3
 banner: img/Katri.jpg
 ---
 

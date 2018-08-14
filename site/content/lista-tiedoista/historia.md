@@ -1,6 +1,6 @@
 ---
 title: Historia
-rank: 5
+rank: 6
 banner: img/kasvikirja.jpg
 ---
 
