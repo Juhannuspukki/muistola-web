@@ -18,7 +18,7 @@ Muistolaan voi tulla omalla kyydillä tai taksilla. Autolla pääsee aivan Muist
 
 ## Tule ja tutustu ilmaiseksi!
 
-Tarjoamme kaikille uusille asiakkaille ilmaisen tutusmiskäynnin. Varaa itsellesi tai omaisellesi tutusmiskäynti soittamalla numeroon [+358 40 53 68 966](tel:+358405368966) tai lähettämällä sähköpostia osoitteeseen <mailto:katri.marjut.koskinen@gmail.com>.
+Tarjoamme kaikille uusille asiakkaille ilmaisen tutustumiskäynnin. Varaa itsellesi tai omaisellesi tutustumiskäynti soittamalla numeroon [+358 40 53 68 966](tel:+358405368966) tai lähettämällä sähköpostia osoitteeseen <mailto:katri.marjut.koskinen@gmail.com>.
 
 ## Palaute
 
