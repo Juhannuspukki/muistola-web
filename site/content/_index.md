@@ -28,4 +28,4 @@ Asiakkaat voivat tulla Muistolaan omaishoidon palveluseteleillä, osavuorokautis
 
 ## Tule ja tutustu ilmaiseksi!
 
-Tarjoamme kaikille uusille asiakkaille ilmaisen tutustumiskäynnin. Varaa itsellesi ja omaisellesi tutustumiskäynti soittamalla numeroon [+358 40 53 68 966](tel:+358405368966) tai lähettämällä sähköpostia osoitteeseen <mailto:katri.marjut.koskinen@gmail.com>.
+Tarjoamme kaikille uusille asiakkaille ilmaisen tutustumiskäynnin. Varaa itsellesi ja omaisellesi tutustumiskäynti soittamalla numeroon [+358 40 53 68 966](tel:+358405368966) tai lähettämällä sähköpostia osoitteeseen <mailto:katri@muistola.fi>.
