@@ -18,10 +18,10 @@ Muistolaan voi tulla omalla kyydillä tai taksilla. Autolla pääsee aivan Muist
 
 ## Tule ja tutustu ilmaiseksi!
 
-Tarjoamme kaikille uusille asiakkaille ilmaisen tutustumiskäynnin. Varaa itsellesi tai omaisellesi tutustumiskäynti soittamalla numeroon [+358 40 53 68 966](tel:+358405368966) tai lähettämällä sähköpostia osoitteeseen <mailto:katri.marjut.koskinen@gmail.com>.
+Tarjoamme kaikille uusille asiakkaille ilmaisen tutustumiskäynnin. Varaa itsellesi tai omaisellesi tutustumiskäynti soittamalla numeroon [+358 40 53 68 966](tel:+358405368966) tai lähettämällä sähköpostia osoitteeseen <mailto:katri@muistola.fi>.
 
 ## Palaute
 
 Omavalvonta on Muistolan laatutyön keskeinen osa. Asiakastyytyväisyys on tärkeä osa omavalvontaa ja koko toimintaa. Siksi otamme toiveita ja ideoita aina vastaan palvelun kehittämiseksi. Kysymme asiakkailta säännöllisin väliajoin tuntemuksia ja  kehitysideoita toimintaamme liittyen. Muistolan toimintakulttuuri on avoin ja keskusteleva.
 
-Palautetta voit antaa puhelimitse, postitse tai henkilökohtaisesti tavatessa.
+Palautetta voit antaa puhelimitse, postitse, sähköpostitse osoitteeseen <mailto:palaute@muistola.fi> tai henkilökohtaisesti tavatessa.
