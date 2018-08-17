@@ -33,7 +33,6 @@ collections:
     fields: # The fields for each document, usually in front matter
       - {label: "Otsikko", name: "title", widget: "string"}
       - {label: "Kuva", name: "banner", widget: "image", required: false}
-      - {label: "Sisältö", name: "body", widget: "markdown", required: false}
       - {label: "Kuva näkyy työpöydällä", name: "hiddenondesktop", widget: "boolean", required: false}
       - {label: "Järjestysnumero", name: "rank", widget: "number", valueType: 'int'}
       - {label: "Sisältö", name: "body", widget: "markdown", required: false}
