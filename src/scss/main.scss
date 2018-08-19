@@ -102,7 +102,7 @@ h2 {
   min-height: 300px;
   border-bottom: solid 0.25em $blue-color;
 
-  img {
+  .logo {
     position: absolute;
     transform: translateX(-50%);
     left: 50%;
@@ -206,6 +206,12 @@ footer {
 }
 
 @media (min-width: 768px) {
+  .banner {
+    .logo {
+      top: 212px;
+      width: 280px;
+    }
+  }
   .navbar, .hidden-on-desktop {
     display: none;
   }
