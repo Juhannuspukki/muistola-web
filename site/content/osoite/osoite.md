@@ -6,6 +6,6 @@ ceo: Katri Koskinen
 road: Viitapohjantie 381
 city: 34240 Kämmenniemi
 phone: +358 40 53 68 966
-email: katri@muistola.fi
+email: katri.koskinen@muistola.fi
 ---
 
