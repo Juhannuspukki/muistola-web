@@ -1,7 +1,7 @@
 ---
 title: Tervetuloa Muistolaan!
 banner: img/muistola.jpg
-metatitle: Etusivu - Muistola - Kuntouttavaa päivätoimintaa & perhehoitoa Tampereella
+metatitle: Muistola - Kuntouttavaa päivätoimintaa & perhehoitoa Tampereella
 metadescription: >-
   Muistola tarjoaa kuntouttavaa päivätoimintaa ja osavuorokautista perhehoitoa
   ikäihmisille ja omaishoidettaville työikäisille Tampereen Teiskossa.
