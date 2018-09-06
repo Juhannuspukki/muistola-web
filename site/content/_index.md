@@ -24,7 +24,7 @@ Palvelumme ovat saatavilla tamperelaisille ja Tampereen ympäristökunnissa asuv
 
 Ammattimainen ja tavoitteellinen päivätoimintamme on tarkoitettu omaishoidettaville, kotihoidon asiakkaille, yksinäisyydestä ja turvattomuudesta kärsiville ikäihmisille, muistisairaille, AVH-kuntoutujille ja muille ikäihmisille, jotka kaipaavat seuraa, kuntouttavaa toimintaa sekä iloa ja elämyksiä arkeensa. Lisäksi palvelemme omaishoidon piiriin kuuluvia työikäisiä. 
 
-Asiakkaat voivat tulla Muistolaan omaishoidon palveluseteleillä, osavuorokautisen perhehoidon asiakkaina tai suoraan maksavina. Muistola on omaishoidon tuen palvelusetelituottaja sekä Aluehallintoviranomaisen rekisteröimä sosiaalipalvelujen tarjoaja.
+Asiakkaat voivat tulla Muistolaan omaishoidon palveluseteleillä, osavuorokautisen perhehoidon asiakkaina tai suoraan maksavina. Muistola on omaishoidon tuen palvelusetelituottaja, Kotitorin yhteistyökumppani sekä Aluehallintoviranomaisen rekisteröimä sosiaalipalvelujen tarjoaja.
 
 ## Tule ja tutustu ilmaiseksi!
 
