@@ -5,4 +5,4 @@ hiddenondesktop: true
 rank: 3
 ---
 
-Osavuorokautinen perhehoito kattaa pääsääntöisesti samat palvelut ja toiminnan kuin yksityinen päivätoiminta, mutta siihen ei sisälly toimintakyvyn arviointia. Perhehoitoon pääsystä päättää kotikunnan asiakasohjaus.
+Osavuorokautinen perhehoito kattaa pääsääntöisesti samat palvelut ja toiminnan kuin kuntouttava yksityinen päivätoiminta, mutta siihen ei sisälly toimintakyvyn arviointia. Perhehoitoon pääsystä päättää kotikunnan asiakasohjaus.
