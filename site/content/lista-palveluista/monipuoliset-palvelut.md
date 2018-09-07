@@ -6,7 +6,7 @@ rank: 1
 ---
 Muistola tarjoaa seuraavia palveluita:
 
-* <a href="palvelut/#yksityistä-päivätoiminta">Kuntouttavaa päivätoimintaa</a>
+* <a href="palvelut/#yksityistä-päivätoiminta">Yksityistä päivätoimintaa</a>
 * <a href="palvelut/#osavuorokautinen-perhehoito">Osavuorokautista perhehoitoa</a>
 * <a href="palvelut/#sauna-pesu-ja-pyykkipalvelu">Sauna-, pesu- ja pyykkipalvelua</a>
 * <a href="palvelut/#toimintakyvyn-arviointi">Toimintakyvyn arviointia</a>
