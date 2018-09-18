@@ -1,6 +1,6 @@
 ---
 title: Vastuuhenkilö
-banner: /img/katri-koskinen.jpg
+banner: /img/Katri.jpg
 hiddenondesktop: false
 rank: 3
 ---
