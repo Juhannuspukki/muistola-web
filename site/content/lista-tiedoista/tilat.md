@@ -1,6 +1,6 @@
 ---
 title: Tilat
-banner: /img/dsc_1275_mv.jpg
+banner: /img/img_3480_mv.jpg
 hiddenondesktop: false
 rank: 2
 ---
