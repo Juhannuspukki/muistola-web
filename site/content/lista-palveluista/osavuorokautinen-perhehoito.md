@@ -1,6 +1,6 @@
 ---
 title: Osavuorokautinen perhehoito
-banner: /img/Perunankuorinta.jpg
+banner: /img/leivonta.jpg
 hiddenondesktop: true
 rank: 3
 ---
