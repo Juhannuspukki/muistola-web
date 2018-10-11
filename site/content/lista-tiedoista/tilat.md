@@ -1,6 +1,6 @@
 ---
 title: Tilat
-banner: /img/img_3480_mv.jpg
+banner: /img/muistolan-tilat.jpg
 hiddenondesktop: false
 rank: 2
 ---
