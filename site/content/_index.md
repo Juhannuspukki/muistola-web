@@ -28,4 +28,4 @@ Muistola tarjoaa pienryhmänä toteutettua ikäihmisten päivätoimintaa sekä p
 
 ## Tule ja tutustu ilmaiseksi!
 
-Tarjoamme kaikille uusille asiakkaille ilmaisen tutustumiskäynnin. Varaa itsellesi ja omaisellesi tutustumiskäynti soittamalla numeroon [+358 40 53 68 966](tel:+358405368966) tai lähettämällä sähköpostia osoitteeseen <mailto:katri.koskinen@muistola.fi>.
+Tarjoamme kaikille uusille asiakkaille ilmaisen tutustumiskäynnin pannukahveineen. Varaa itsellesi ja omaisellesi tutustumiskäynti soittamalla numeroon [+358 40 53 68 966](tel:+358405368966) tai lähettämällä sähköpostia osoitteeseen <mailto:katri.koskinen@muistola.fi>.
