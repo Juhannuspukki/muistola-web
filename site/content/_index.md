@@ -18,7 +18,7 @@ Muistola on aidosti kodinomainen palvelu, jonne ikäihmisen on helppo tulla. Vas
 
 Muistola sijaitsee Tampereen Teiskon Pohtolassa, kauniissa maalaismaisemissa, mutta vain lyhyen matkan päässä Tampereen keskustasta. 
 
-Muistolassa on tarjolla monipuolisia ja kuntouttavia aktiviteetteja leipomisesta kädentaitoihin, muistelua, musiikkia, lihaskunto-, tasapaino- ja muistiharjoituksia, aivojumppaliikkeitä sekä paikan päällä laitettua kotiruokaa. Lisäksi Muistolassa on mahdollisuus peseytyä ja saunoa sekä ulkoilla omalla yksityisellä pihatiellä.
+Muistolassa on tarjolla monipuolisia ja kuntouttavia aktiviteetteja esimerkiksi leipomisesta kädentaitoihin, muistelua, musiikkia, lihaskunto-, tasapaino- ja muistiharjoituksia, aivojumppaliikkeitä sekä paikan päällä laitettua kotiruokaa. Lisäksi Muistolassa on mahdollisuus peseytyä ja saunoa sekä ulkoilla omalla yksityisellä pihatiellä.
 
 Palvelumme ovat saatavilla tamperelaisille ja Tampereen ympäristökunnissa asuville, ja ovemme ovat avoinna arkisin klo 9–16.
 
