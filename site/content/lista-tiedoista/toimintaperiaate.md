@@ -6,7 +6,7 @@ rank: 4
 ---
 Muistola tarjoaa iloa, elämyksiä, monipuolisia aktiviteetteja sekä osallisuuden tunteen tutussa ja turvallisessa pienryhmässä. Kuntouttava toiminta kuuluu kaikkeen Muistolan tekemiseen.
 
-Toimintamme on ammattimaista ja tavoitteellista, ja se toteutetaan pienryhmissä. Paikalla on aina tuttu hoitaja, ja palveluajat ovat joustavat. Paljon muistelua sisältävä toimintatapa sopii monenkuntoisille asiakkaille ja tekee kaikista tasavertaisia osallistujia. Samalla luodaan mahdollisuus vertaistukeen ja uusiin ystävyyssuhteisiin.
+Toimintamme on ammattimaista ja tavoitteellista. Paikalla on aina tuttu hoitaja, ja palveluajat ovat joustavat. Paljon muistelua sisältävä toimintatapa sopii monenkuntoisille asiakkaille ja tekee kaikista tasavertaisia osallistujia. Samalla luodaan mahdollisuus vertaistukeen ja uusiin ystävyyssuhteisiin.
 
 Muistolassa huomioimme jokaisen asiakkaan omana ainutlaatuisena  itsenään ja kaikki tulevat kuulluksi tasavertaisina yksilöinä.  Ammattitaitoinen hoitaja saa ikäihmiset osallistumaan ja innostumaan  sekä kokemaan itsensä tarpeellisiksi ja arvostetuiksi. Palvelun  tavoitteena on tukea toimintakykyä, elämänlaatua, ikäihmisten kotona asumista ja omaishoitajien jaksamista.
 
