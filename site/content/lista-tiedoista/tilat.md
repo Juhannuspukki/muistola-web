@@ -1,6 +1,6 @@
 ---
 title: Tilat
-banner: /img/muistolan-tilat.jpg
+banner: /img/muistolan-tupa.jpg
 hiddenondesktop: false
 rank: 2
 ---
