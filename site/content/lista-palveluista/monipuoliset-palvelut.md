@@ -1,6 +1,6 @@
 ---
 title: Monipuoliset palvelut arkisin 9–16 tai sopimuksen mukaan
-banner: /img/Valokuva.jpg
+banner: /img/Kiehinen.jpg
 hiddenondesktop: false
 rank: 1
 ---
