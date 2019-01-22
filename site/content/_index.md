@@ -18,14 +18,14 @@ Muistola on aidosti kodinomainen palvelu, jonne ikäihmisen on helppo tulla. Vas
 
 Muistola sijaitsee Tampereen Teiskon Pohtolassa, kauniissa maalaismaisemissa, mutta vain lyhyen matkan päässä Tampereen keskustasta. 
 
-Muistolassa on tarjolla monipuolisia ja kuntouttavia aktiviteetteja leipomisesta käsitöihin ja nikkarointiin, muistelua, musiikkia, lihaskunto- ja tasapainoharjoituksia, muistiharjoituksia, aivojumppaliikkeitä, paikan päällä laitettua kotiruokaa, ulkoilua sekä iloa ja elämyksiä. Lisäksi Muistolassa on mahdollisuus peseytyä ja saunoa.
+Muistolassa on tarjolla monipuolisia ja kuntouttavia aktiviteetteja mm. leipomisesta kädentaitoihin, muistelua, musiikkia, lihaskunto-, tasapaino- ja muistiharjoituksia, aivojumppaliikkeitä sekä paikan päällä laitettua kotiruokaa. Lisäksi Muistolassa on mahdollisuus peseytyä ja saunoa sekä ulkoilla omassa rauhallisessa pihapiirissä.
 
 Palvelumme ovat saatavilla tamperelaisille ja Tampereen ympäristökunnissa asuville, ja ovemme ovat avoinna arkisin klo 9–16.
 
-Ammattimainen ja tavoitteellinen päivätoimintamme on tarkoitettu omaishoidettaville, kotihoidon asiakkaille, yksinäisyydestä ja turvattomuudesta kärsiville ikäihmisille, muistisairaille, AVH-kuntoutujille ja muille ikäihmisille, jotka kaipaavat seuraa, kuntouttavaa toimintaa sekä iloa ja elämyksiä arkeensa. Lisäksi palvelemme omaishoidon piiriin kuuluvia työikäisiä. 
+Ammattimainen ja tavoitteellinen päivätoimintamme on tarkoitettu omaishoidettaville, kotihoidon asiakkaille, yksinäisyydestä ja turvattomuudesta kärsiville ikäihmisille, muistisairaille, AVH-kuntoutujille sekä muille ikäihmisille, jotka kaipaavat seuraa, kuntouttavaa toimintaa tai  iloa ja elämyksiä arkeensa. Lisäksi palvelemme omaishoidon piiriin kuuluvia työikäisiä. 
 
 Muistola tarjoaa pienryhmänä toteutettua ikäihmisten päivätoimintaa sekä perhehoitoa. Asiakkaat voivat tulla omaishoidon palveluseteleillä, suoraan maksavina tai osavuorokautisen perhehoidon asiakkaina. Muistola on omaishoidon tuen palvelusetelituottaja, Kotitorin yhteistyökumppani sekä Aluehallintoviranomaisen rekisteröimä sosiaalipalvelujen tarjoaja.
 
 ## Tule ja tutustu ilmaiseksi!
 
-Tarjoamme kaikille uusille asiakkaille ilmaisen tutustumiskäynnin. Varaa itsellesi ja omaisellesi tutustumiskäynti soittamalla numeroon [+358 40 53 68 966](tel:+358405368966) tai lähettämällä sähköpostia osoitteeseen <mailto:katri.koskinen@muistola.fi>.
+Tarjoamme kaikille uusille asiakkaille ilmaisen tutustumiskäynnin pannukahveineen. Varaa itsellesi ja omaisellesi tutustumiskäynti soittamalla numeroon [+358 40 53 68 966](tel:+358405368966) tai lähettämällä sähköpostia osoitteeseen <mailto:katri.koskinen@muistola.fi>.

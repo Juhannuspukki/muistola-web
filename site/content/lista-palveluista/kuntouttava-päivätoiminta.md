@@ -4,8 +4,7 @@ banner: img/Virkkaus.jpg
 hiddenondesktop: false
 rank: 2
 ---
-
-Yksityinen päivätoiminta on tarkoitettu omaishoidettaville, kotihoidon asiakkaille, yksinäisyydestä ja turvattomuudesta kärsiville ikäihmisille, muistisairaille, AVH-kuntoutujille sekä muille kotona asuville ikäihmisille ja työikäisille, joilla on toimintakykyä alentava sairaus ja/tai tarve kuntouttavalle toiminnalle.
+Yksityinen päivätoiminta on tarkoitettu omaishoidettaville, kotihoidon asiakkaille, yksinäisyydestä ja turvattomuudesta kärsiville ikäihmisille, muistisairaille, AVH-kuntoutujille sekä muille kotona asuville ikäihmisille ja työikäisille, joilla on toimintakykyä alentava sairaus ja tarve kuntouttavalle päivätoiminnalle.
 
 Kuntouttavan päivätoiminnan asiakkaat voivat tulla palveluun joko  omaishoidon palveluseteleillä tai suoraan maksavina. Kotikunnasta voi  myös tiedustella mahdollisuutta tulla päivätoiminnan palveluseteleillä.
 
