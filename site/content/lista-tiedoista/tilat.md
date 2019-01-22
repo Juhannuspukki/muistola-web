@@ -1,6 +1,6 @@
 ---
 title: Tilat
-banner: /img/muistolan-tupa_leveys-408-pix.jpg
+banner: /img/muistolan-uusi-tupa_leveys-408-pix.jpg
 hiddenondesktop: false
 rank: 2
 ---
