@@ -10,4 +10,4 @@ Kuntouttavan päivätoiminnan asiakkaat voivat tulla palveluun joko  omaishoidon
 
 Lähtökohta on, että kukaan kotona asuva ei ole liian huonokuntoinen Muistolaan, mutta parhaimmat hyödyt saavutetaan yleensä silloin, kun palveluun hakeudutaan hyvissä ajoin. 
 
-Selvitämme jokaisen asiakkaan elämänhistorian ja kiinnostuksen kohteet ja hyödynnämme niitä toiminnassa. Elämänhistorian ja kiinnostuksen kohteiden selvittäminen on tärkeää etenkin muistioireisten kohdalla. Lisäksi määrittelemme jokaiselle päivätoiminnan tavoitteet huomioiden mm. kaupungin laatimat kuntoutus-, palvelu- ja hoitosuunnitelmat. Muistolan päiväkuntoutuksessa on mahdollista saada myös toimintakyvyn arviointia.
+Selvitämme jokaisen asiakkaan elämänhistorian ja kiinnostuksen kohteet ja hyödynnämme niitä toiminnassa. Elämänhistorian ja kiinnostuksen kohteiden selvittäminen on tärkeää etenkin muistioireisten kohdalla. Lisäksi määrittelemme jokaiselle asiakkaalle päivätoiminnan tavoitteet ja pyrimme huomioimaan niissä kaupungin laatimat kuntoutus-, palvelu- ja hoitosuunnitelmat. Muistolan päiväkuntoutuksessa on mahdollista saada myös toimintakyvyn arviointia.
