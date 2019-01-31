@@ -4,6 +4,8 @@ banner: img/Virkkaus.jpg
 hiddenondesktop: false
 rank: 2
 ---
+Tarjoamme säännöllistä, noin 6 tunnin, kuntouttavaa päivätoimintaa arkipäivisin klo 9-16. Ajat ovat joustavia. Muistolassa asiakkaat saavat hoidon ja huolenpidon sekä monipuolisten aktiviteettien lisäksi paikan päällä valmistetun aamupalan, lounaan ja kahvin sekä mahdollisuuden ulkoilla raikkaassa maalaisilmassa. Halutessaan asiakkaat voivat myös peseytyä tai saunoa. Tarvittaessa myös omat pyykit on mahdollista tuoda Muistolaan pesuun. Asiakkaat voivat asua Tampereella tai Tampereen ympäristökunnissa.
+
 Yksityinen päivätoiminta on tarkoitettu omaishoidettaville, kotihoidon asiakkaille, yksinäisyydestä ja turvattomuudesta kärsiville ikäihmisille, muistisairaille, AVH-kuntoutujille sekä muille kotona asuville ikäihmisille ja työikäisille, joilla on toimintakykyä alentava sairaus ja tarve kuntouttavalle päivätoiminnalle.
 
 Kuntouttavan päivätoiminnan asiakkaat voivat tulla palveluun joko  omaishoidon palveluseteleillä tai suoraan maksavina. Kotikunnasta voi  myös tiedustella mahdollisuutta tulla päivätoiminnan palveluseteleillä.
