@@ -4,4 +4,4 @@ banner: /img/leivonta.jpg
 hiddenondesktop: true
 rank: 3
 ---
-Osavuorokautinen perhehoito kattaa pääsääntöisesti samat palvelut ja toiminnan kuin yksityinen päivätoiminta, mutta siihen ei sisälly toimintakyvyn arviointia. Perhehoitoon pääsystä päättää kotikunnan asiakasohjaus.
+Osavuorokautinen perhehoito kattaa pääsääntöisesti samat palvelut ja toiminnan kuin yksityinen päivätoiminta. Perhehoitoa tarjotaan arkipäivisin klo 9-16. Päivään kuuluu aamupala, lounas ja iltapäiväkahvit sekä mahdollisuus peseytyä ja ulkoilla sekä tavata muita ikätovereita. Toiminta tapahtuu pienryhmissä niin, että jokainen tulee huomioiduksi tasavertaisesti. Muistolassa on tarjolla monipuolisia aktiviteettaja sekä yhdessä muistelua, mikä lisää ryhmäläisten yhteenkuuluvuutta. Perhehoitoon pääsystä päättää kotikunnan asiakasohjaus.
