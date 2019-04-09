@@ -7,7 +7,7 @@ metadescription: >-
   perhehoitoa ikäihmisille ja omaishoidettaville työikäisille Tampereen
   Teiskossa. Asiakkaiksi voivat tulla myös Tampereen lähikuntien asukkaat.
 ogdescription: >-
-  Muistola tarjoaa yksityistä kuntouttavaa päivätoimintaa ja osavuorokautista
+  Muistola tarjoaa tasokasta kuntouttavaa päivätoimintaa ja osavuorokautista
   perhehoitoa ikäihmisille ja omaishoidettaville työikäisille Tampereen Teiskon
   Pohtolassa. Muistola ei ole laitos vaan oikea koti ja se sijaitsee kauniissa
   maalaismaisemissa. Soita ja varaa ilmainen tutustumiskäynti!
@@ -18,7 +18,7 @@ Muistola on aidosti kodinomainen palvelu, jonne ikäihmisen on helppo tulla. Vas
 
 Muistola sijaitsee Tampereen Teiskon Pohtolassa, kauniissa maalaismaisemissa, mutta vain lyhyen matkan päässä Tampereen keskustasta. 
 
-Muistolassa on tarjolla monipuolisia ja kuntouttavia aktiviteetteja mm. leipomisesta kädentaitoihin, muistelua, musiikkia, lihaskunto-, tasapaino- ja muistiharjoituksia, aivojumppaliikkeitä sekä paikan päällä laitettua kotiruokaa. Lisäksi Muistolassa on mahdollisuus peseytyä ja saunoa sekä ulkoilla omassa rauhallisessa pihapiirissä.
+Muistolassa on tarjolla monipuolisia ja kuntouttavia aktiviteetteja sekä omiin kiinnostuksen kohteisiin liittyvää mielekästä tekemistä. Jokaiseen päivään kuuluu muistelua, toimintakyvyn edistämistä, kotiruokaa sekä mahdollisuus ulkoilla omassa rauhallisessa pihapiirissä. Lisäksi Muistolassa on mahdollisuus peseytyä ja saunoa.
 
 Palvelumme ovat saatavilla tamperelaisille ja Tampereen ympäristökunnissa asuville, ja ovemme ovat avoinna arkisin klo 9–16.
 
