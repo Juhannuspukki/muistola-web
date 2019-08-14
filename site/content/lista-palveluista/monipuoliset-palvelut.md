@@ -11,4 +11,4 @@ Muistola tarjoaa seuraavia palveluita:
 * <a href="palvelut/#sauna-pesu-ja-pyykkipalvelu">Sauna-, pesu- ja pyykkipalvelua</a>
 * <a href="palvelut/#toimintakyvyn-arviointi">Toimintakyvyn arviointia</a>
 
-Muistolaan ovat tervetulleita kaikki kotona asuvat ikäihmiset, jotka kaipaavat päivätoimintana kuntoutusta, toimintakyvyn ylläpitämistä, sosiaalisia suhteita tai ihan vain iloa ja elämyksiä arkea piristämään. Muistola on vaihtoehto perinteisille päiväkeskuksille.
+Muistola tarjoaa päivätoimintaa (yksityistä sekä osavuorokautista perhehoitoa) sekä päivätoimintaan liittyviä oheispalveluja. Muistolaan ovat tervetulleita kaikki kotona asuvat ikäihmiset, jotka kaipaavat kuntoutusta, toimintakyvyn ylläpitämistä, sosiaalisia suhteita tai ihan vain iloa ja elämyksiä arkea piristämään. Muistola on vaihtoehto perinteisille päiväkeskuksille.
