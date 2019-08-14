@@ -12,4 +12,4 @@ Kesken päivän on myös mahdollista levätä erillisessä makuutilassa. Halukk
 
 Suuri ja rauhallinen piha tarjoaa tilaa liikkumiseen sekä ulkoilmasta ja luonnosta nauttimiseen. Pihapiiristä löytyy myös 500 metriä pitkä metsäpolku nuotiopaikkoineen.
 
-Muistola ei olisi Muistola ilman vanhoja esineitä ja huonekaluja sekä tiloja, jotka muistuttavat vanhan ajan tupaa. Tärkeintä on kuitenkin aito halu auttaa ikäihmisiä, osaaminen kohdata erilaisia ihmisiä sekä taito tarjota mielekästä ja aikuisille sopivaa tekemistä.
+Muistola ei olisi Muistola ilman vanhoja esineitä ja huonekaluja sekä tiloja, jotka muistuttavat vanhan ajan tupaa. Tärkeintä on kuitenkin aito halu auttaa ikäihmisiä, osaaminen kohdata erilaisia ihmisiä sekä taito tarjota mielekästä ja vanhemmalle väelle sopivaa tekemistä.
