@@ -12,11 +12,11 @@ ogdescription: >-
   Pohtolassa. Muistola ei ole laitos vaan oikea koti ja se sijaitsee kauniissa
   maalaismaisemassa. Soita ja varaa ilmainen tutustumiskäynti!
 ---
-## Ikäihmisten kuntouttavaa päivätoimintaa aidossa kodissa Tampereen Teiskossa
+## Ikäihmisten päivätoimintaa aidossa kodissa Tampereen Teiskossa
 
 Muistola on aidosti kodinomainen palvelu, jonne ikäihmisen on helppo tulla. Vastassa on aina sama tuttu hoitaja, Katri. Saman katon alla kohtaa monta eri sukupolvea, ja siellä voit kokea oikean kodin asioita kuten pullantuoksua ja takkatulen lämpöä.
 
-Muistola tarjoaa pienryhmänä toteutettua ikäihmisten päivätoimintaa. Asiakkaat voivat tulla omaishoidon palveluseteleillä, suoraan maksavina tai osavuorokautisen perhehoidon asiakkaina. Muistola on omaishoidon tuen palvelusetelituottaja, Kotitorin yhteistyökumppani sekä Aluehallintoviranomaisen rekisteröimä sosiaalipalvelujen tarjoaja.
+Muistola tarjoaa pienryhmänä toteutettua ikäihmisten kuntouttavaa päivätoimintaa. Asiakkaat voivat tulla omaishoidon palveluseteleillä, suoraan maksavina tai osavuorokautisen perhehoidon asiakkaina. Muistola on omaishoidon tuen palvelusetelituottaja, Kotitorin yhteistyökumppani sekä Aluehallintoviranomaisen rekisteröimä sosiaalipalvelujen tarjoaja.
 
 Muistola sijaitsee Tampereen Teiskon Pohtolassa, kauniissa maalaismaisemassa, mutta vain lyhyen matkan päässä Tampereen keskustasta. 
 
