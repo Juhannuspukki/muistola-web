@@ -1,5 +1,5 @@
 ---
-title: Monipuoliset palvelut arkisin 9–16 tai sopimuksen mukaan
+title: Monipuoliset palvelut arkisin 9–16
 banner: /img/rihveli-taulu.jpg
 hiddenondesktop: false
 rank: 1
