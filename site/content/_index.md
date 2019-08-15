@@ -10,7 +10,7 @@ ogdescription: >-
   Muistola tarjoaa tasokasta kuntouttavaa päivätoimintaa ja osavuorokautista
   perhehoitoa ikäihmisille ja omaishoidettaville työikäisille Tampereen Teiskon
   Pohtolassa. Muistola ei ole laitos vaan oikea koti ja se sijaitsee kauniissa
-  maalaismaisemissa. Soita ja varaa ilmainen tutustumiskäynti!
+  maalaismaisemassa. Soita ja varaa ilmainen tutustumiskäynti!
 ---
 ## Yksityistä ikäihmisten päivätoimintaa ja perhehoitoa aidossa kodissa Tampereen Teiskossa
 
