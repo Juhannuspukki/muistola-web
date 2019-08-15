@@ -1,5 +1,5 @@
 ---
-title: Lähellä kaupunkia mutta kaukana sen hälystä
+title: 'Lähellä kaupunkia, mutta kaukana sen hälystä'
 subtitle: Osoite ja puhelinnumero
 name: 'Muistola '
 ceo: Katri Koskinen
