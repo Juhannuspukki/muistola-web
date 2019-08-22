@@ -3,9 +3,9 @@ title: Tervetuloa Muistolaan!
 banner: img/muistola.jpg
 metatitle: Muistola - Yksityistä päivätoimintaa & perhehoitoa Tampereella
 metadescription: >-
-  Muistola tarjoaa yksityistä päivätoimintaa ja osavuorokautista perhehoitoa
-  ikäihmisille sekä työikäisille omaishoidettaville Tampereen Teiskossa.
-  Asiakkaiksi voivat tulla myös Tampereen lähikuntien asukkaat.
+  Muistola tarjoaa ikäihmisten yksityistä päivätoimintaa sekä osavuorokautista
+  perhehoitoa Tampereen Teiskossa. Asiakkaiksi voivat tulla myös Tampereen
+  lähikuntien asukkaat.
 ogdescription: >-
   Muistola tarjoaa kuntouttavaa päivätoimintaa ja osavuorokautista perhehoitoa
   ikäihmisille ja omaishoidettaville työikäisille Tampereen Teiskon Pohtolassa.
@@ -16,7 +16,7 @@ ogdescription: >-
 
 Muistola on aidosti kodinomainen palvelu, jonne ikäihmisen on helppo tulla. Vastassa on aina sama tuttu hoitaja, Katri. Saman katon alla kohtaa monta eri sukupolvea, ja siellä voit kokea oikean kodin asioita kuten pullantuoksua ja takkatulen lämpöä.
 
-Muistola tarjoaa ikäihmisten päivätoimintaa pienryhmissä. Asiakkaat voivat tulla omaishoidon palveluseteleillä, suoraan maksavina tai osavuorokautisen perhehoidon asiakkaina. Muistola on omaishoidon tuen palvelusetelituottaja, Kotitorin yhteistyökumppani sekä Aluehallintoviranomaisen rekisteröimä sosiaalipalvelujen tarjoaja.
+Muistola tarjoaa ikäihmisten päivätoimintaa. Asiakkaat voivat tulla omaishoidon palveluseteleillä, suoraan maksavina tai osavuorokautisen perhehoidon asiakkaina. Muistola on omaishoidon tuen palvelusetelituottaja, Kotitorin yhteistyökumppani sekä Aluehallintoviranomaisen rekisteröimä sosiaalipalvelujen tarjoaja.
 
 Muistola sijaitsee Tampereen Teiskon Pohtolassa, kauniissa maalaismaisemassa, mutta vain lyhyen matkan päässä Tampereen keskustasta. 
 
