@@ -20,7 +20,7 @@ Muistola tarjoaa ikäihmisten päivätoimintaa. Asiakkaat voivat tulla omaishoid
 
 Muistola sijaitsee Tampereen Teiskon Pohtolassa, kauniissa maalaismaisemassa, mutta vain lyhyen matkan päässä Tampereen keskustasta. 
 
-Muistolassa on tarjolla monipuolisia ja kuntouttavia aktiviteetteja sekä omiin kiinnostuksen kohteisiin liittyvää mielekästä tekemistä. Jokaiseen päivään kuuluu muistelua, toimintakyvyn edistämistä, kotiruokaa sekä mahdollisuus ulkoilla omassa rauhallisessa pihapiirissä. Lisäksi Muistolassa on mahdollisuus peseytyä ja saunoa.
+Muistolassa on tarjolla monipuolisia ja kuntouttavia aktiviteetteja sekä omiin kiinnostuksen kohteisiin liittyvää mielekästä tekemistä. Jokaiseen päivään kuuluu muistelua, toimintakyvyn edistämistä, kotiruokaa sekä mahdollisuus ulkoilla omassa rauhallisessa pihapiirissä. Lisäksi Muistolassa on mahdollisuus peseytyä ja saunoa. Toiminta tapahtuu pienryhmissä.
 
 Palvelumme ovat saatavilla tamperelaisille ja Tampereen ympäristökunnissa asuville, ja ovemme ovat avoinna arkisin klo 9–16.
 
