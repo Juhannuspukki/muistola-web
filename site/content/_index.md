@@ -12,7 +12,7 @@ ogdescription: >-
   Muistola ei ole laitos vaan oikea koti ja se sijaitsee kauniissa
   maalaismaisemassa. Soita ja varaa ilmainen tutustumiskäynti!
 ---
-## Ikäihmisten päivätoimintaa aidossa kodissa Tampereen Teiskossa
+## Ikäihmisten päivätoimintaa ja perhehoitoa aidossa kodissa Tampereen Teiskossa
 
 Muistola on aidosti kodinomainen palvelu, jonne ikäihmisen on helppo tulla. Vastassa on aina sama tuttu hoitaja, Katri. Saman katon alla kohtaa monta eri sukupolvea, ja siellä voit kokea oikean kodin asioita kuten pullantuoksua ja takkatulen lämpöä.
 
