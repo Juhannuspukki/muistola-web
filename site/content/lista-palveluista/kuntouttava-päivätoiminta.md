@@ -8,7 +8,7 @@ Tarjoamme säännöllistä, maksimissaan 7 tunnin, kuntouttavaa päivätoiminta
 
 Yksityinen päivätoiminta on tarkoitettu omaishoidettaville, kotihoidon asiakkaille, yksinäisyydestä ja turvattomuudesta kärsiville ikäihmisille, muistisairaille, AVH-kuntoutujille sekä muille kotona asuville ikäihmisille ja työikäisille, joilla on toimintakykyä alentava sairaus ja tarve kuntouttavalle päivätoiminnalle.
 
-Yksityisen päivätoiminnan asiakkaat voivat tulla Muistolaan joko omaishoidon palveluseteleillä tai suoraan maksavina. Päivätoimintaan tarkoitettujen palvelusetelien lisäksi voi käyttää omaishoitajan oman terveydentilan hoitamiseen myönnettyjä seteleitä. Voit tuoda omaisesi päiväksi turvalliseen ja kuntouttavaan hoitopaikkaan, kun menet itse esim. lääkärin tai sairaanhoitajan vastaanotolle. Yksityisen päivätoiminnan lisäksi Muistolan päivätoimintaan on mahdollista päästä perhehoidon asiakkaana. Omaishoidon piiriin kuuluvilla on mahdollista tulla sekä yksityisesti seteleillä että perhehoidon asiakkaana.
+Yksityisen päivätoiminnan asiakkaat voivat tulla Muistolaan joko omaishoidon palveluseteleillä tai suoraan maksavina. Päivätoimintaan tarkoitettujen palvelusetelien lisäksi voi käyttää omaishoitajan oman terveydentilan hoitamiseen myönnettyjä seteleitä. Voit tuoda omaisesi päiväksi turvalliseen ja kuntouttavaan hoitopaikkaan, kun menet itse esim. lääkärin tai sairaanhoitajan vastaanotolle. Yksityisen päivätoiminnan lisäksi Muistolan päivätoimintaan on mahdollista päästä perhehoidon asiakkaana, kts. osavuorokautinen perhehoito
 
 Lähtökohta on, että kukaan kotona asuva vanhus ei ole liian huonokuntoinen Muistolaan, mutta parhaimmat hyödyt saavutetaan yleensä silloin, kun palveluun hakeudutaan hyvissä ajoin. 
 
