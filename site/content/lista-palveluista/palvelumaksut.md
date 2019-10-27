@@ -4,7 +4,7 @@ banner: img/Kirjoituskone.jpg
 hiddenondesktop: false
 rank: 6
 ---
-Asiakkaat voivat tulla Muistolaan omaishoidon palveluseteleillä, osavuorokautisen perhehoidon asiakkaina tai suoraan maksavina.
+Asiakkaat voivat tulla Muistolaan omaishoidon palveluseteleillä, osavuorokautisen perhehoidon asiakkaina tai suoraan maksavina. Kotikunnasta voi myös tiedustella mahdollisuutta tulla päivätoiminnan palveluseteleillä.
 
 Omaishoidon tuen 100 €:n palvelusetelillä on mahdollista saada noin 7 tuntia kuntouttavaa päivätoimintaa ruokailuineen.
 
