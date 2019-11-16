@@ -16,11 +16,11 @@ ogdescription: >-
 
 Muistola on aidosti kodinomainen palvelu, jonne ikäihmisen on helppo tulla. Vastassa on aina sama tuttu hoitaja, Katri. Saman katon alla kohtaa monta eri sukupolvea, ja siellä voit kokea oikean kodin asioita kuten pullantuoksua ja takkatulen lämpöä.
 
-Muistola tarjoaa ikäihmisten päivätoimintaa. Asiakkaat voivat hakeutua päivätoimintaan joko omaishoidon palveluseteleillä, suoraan maksavina tai osavuorokautisen perhehoidon asiakkaina. Muistola on omaishoidon tuen palvelusetelituottaja, Kotitorin yhteistyökumppani sekä Aluehallintoviranomaisen rekisteröimä sosiaalipalvelujen tarjoaja.
+Muistola tarjoaa ikäihmisten päivätoimintaa. Asiakkaat voivat hakeutua päivätoimintaan joko palveluseteleillä, suoraan maksavina tai osavuorokautisen perhehoidon asiakkaina. Muistola on omaishoidon tuen palvelusetelituottaja, Kotitorin yhteistyökumppani sekä Aluehallintoviranomaisen rekisteröimä sosiaalipalvelujen tarjoaja.
 
 Muistola sijaitsee Tampereen Teiskon Pohtolassa, kauniissa maalaismaisemassa, mutta vain lyhyen matkan päässä Tampereen keskustasta. 
 
-Muistolassa on tarjolla monipuolisia ja kuntouttavia aktiviteetteja sekä omiin kiinnostuksen kohteisiin liittyvää mielekästä tekemistä. Jokaiseen päivään kuuluu kiireetöntä yhdessäoloa, muistelua, toimintakyvyn edistämistä, kotiruokaa sekä mahdollisuus ulkoilla omassa rauhallisessa pihapiirissä. Lisäksi Muistolassa on mahdollisuus peseytyä ja saunoa. Jokainen asiakas kohdataan aina yksilöllisesti ja luottamuksellisesti.
+Muistolassa on tarjolla monipuolisia ja kuntouttavia aktiviteetteja sekä omiin kiinnostuksen kohteisiin liittyvää mielekästä tekemistä. Jokaiseen päivään kuuluu kiireetöntä yhdessäoloa, muistelua, toimintakyvyn edistämistä, kotiruokaa sekä mahdollisuus ulkoilla omassa rauhallisessa pihapiirissä. Lisäksi Muistolassa on mahdollisuus peseytyä ja saunoa. Jokainen asiakas kohdataan yksilöllisesti ja luottamuksellisesti.
 
 Palvelumme ovat saatavilla tamperelaisille ja Tampereen ympäristökunnissa asuville, ja ovemme ovat avoinna arkisin klo 9–16.
 
