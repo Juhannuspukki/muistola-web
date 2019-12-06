@@ -24,7 +24,7 @@ Muistolassa on tarjolla monipuolisia ja kuntouttavia aktiviteetteja sekä omiin 
 
 Palvelumme ovat saatavilla tamperelaisille ja Tampereen ympäristökunnissa asuville, ja ovemme ovat avoinna arkisin klo 9–16.
 
-Ammattimainen ja tavoitteellinen päivätoimintamme on tarkoitettu omaishoidettaville, kotihoidon asiakkaille, yksinäisyydestä ja turvattomuudesta kärsiville ikäihmisille, muistisairaille, AVH-kuntoutujille sekä muille ikäihmisille, jotka kaipaavat seuraa, kuntouttavaa toimintaa tai  iloa ja elämyksiä arkeensa. Lisäksi palvelemme omaishoidon piiriin kuuluvia työikäisiä. 
+Ammattimainen ja tavoitteellinen päivätoimintamme on tarkoitettu omaishoidettaville, kotihoidon asiakkaille, yksinäisyydestä ja turvattomuudesta kärsiville ikäihmisille, muistisairaille, AVH-kuntoutujille sekä muille ikäihmisille, jotka kaipaavat seuraa, kuntouttavaa toimintaa tai  iloa ja elämyksiä arkeensa. Lisäksi palvelemme omaishoidon piiriin kuuluvia työikäisiä sekä omaishoitajia. 
 
 ## Tule ja tutustu ilmaiseksi!
 
