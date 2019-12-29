@@ -1,6 +1,6 @@
 ---
 title: Toimintakyvyn arviointi
-banner: img/Arvuuttelu.jpg
+banner: /img/Kiehinen.jpg
 hiddenondesktop: true
 rank: 5
 ---
