@@ -2,7 +2,7 @@
 title: Tietoa Muistolan tiloista ja toimintatavoista
 banner: img/tietoaMuistolasta.jpg
 metatitle: >-
-  Tietoa Muistolasta - Muistola - Kuntouttavaa päivätoimintaa & perhehoitoa
+  Tietoa Muistolasta - Muistola - ikäihmisten päivätoimintaa & perhehoitoa
   Tampereella
 metadescription: >-
   Muistola tarjoaa vanhusten kuntouttavaa päivätoimintaa ja osavuorokautista
