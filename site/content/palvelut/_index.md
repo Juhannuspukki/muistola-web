@@ -3,7 +3,7 @@ title: Palvelut  ja palvelumaksut
 banner: img/palvelumaksu.jpg
 metatitle: Palvelut - Muistola - Yksityistä päivätoimintaa & perhehoitoa Tampereella
 metadescription: >-
-  Muistola tarjoaa yksityistä kuntouttavaa päivätoimintaa, osavuorokautista
+  Muistola tarjoaa yksityistä ikäihmisten päivätoimintaa, osavuorokautista
   perhehoitoa sekä toimintakyvyn arviointia. Lisäpalveluina on myös sauna-,
   pesu-, ja pyykkipalvelut.
 ogdescription: >-
