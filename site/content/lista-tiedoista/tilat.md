@@ -1,6 +1,6 @@
 ---
 title: Tilat
-banner: /img/tupakuvat_2020.jpg
+banner: /img/tupakuvat_uudet.jpg
 hiddenondesktop: false
 rank: 2
 ---
