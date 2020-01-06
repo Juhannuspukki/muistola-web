@@ -1,6 +1,6 @@
 ---
 title: Tilat
-banner: /img/muistola_leveys-408.jpg
+banner: /img/tupakuvat_6.1.2020.jpg
 hiddenondesktop: false
 rank: 2
 ---
