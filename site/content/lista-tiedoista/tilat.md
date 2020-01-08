@@ -8,7 +8,7 @@ Muistola on Koskisen perheen pihapiiristä löytyvä tunnelmallinen rakennus, jo
 
 Sijainti Tampereen Teiskon Pohtolassa tarjoaa maaseudun rauhaa ja raikkautta. Vanhan ajan tunnelmaa henkivät kodikkaat tilat ovat uudet, esteettömät, turvalliset ja tilavat. Aidon kodin miljöö vie ajatukset mukaviin muistoihin ja yhdessäoloon sekä aktivoivat monenlaiseen tekemiseen ja liikkumiseen. Vanhat esineet ovat näkyvästi esillä Muistolan tiloissa, ja ne ovat myös yleisesti käytössä ja kosketeltavissa. 
 
-Kesken päivän on myös mahdollista levätä erillisessä makuutilassa. Halukkailla on myös mahdollisuus päästä pihapiirissä sijaitsevalle verstaalle, ja tarjolla on muutenkin paljon kiinnostavia asioita niin miehille kuin naisillekin. 
+Kesken päivän on mahdollista levätä erillisessä makuutilassa. Halukkailla on lisäksi mahdollisuus päästä pihapiirissä sijaitsevalle verstaalle, ja tarjolla on muutenkin paljon kiinnostavia asioita niin miehille kuin naisillekin. 
 
 Suuri ja rauhallinen piha tarjoaa tilaa liikkumiseen sekä ulkoilmasta ja luonnosta nauttimiseen. Pihapiiristä löytyy myös 500 metriä pitkä metsäpolku nuotiopaikkoineen.
 
