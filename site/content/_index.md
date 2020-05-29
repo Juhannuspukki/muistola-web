@@ -1,7 +1,7 @@
 ---
 title: Tervetuloa Muistolaan!
 banner: img/muistola.jpg
-metatitle: Muistola - Yksityistä päivätoimintaa & perhehoitoa Tampereella
+metatitle: Muistola - Ikäihmisten päivätoimintaa
 metadescription: >-
   Muistola tarjoaa ikäihmisten yksityistä päivätoimintaa ja perhehoitoa
   Tampereen Teiskossa. Asiakkaiksi voivat tulla myös Tampereen lähikuntien
