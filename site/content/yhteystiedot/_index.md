@@ -24,4 +24,6 @@ Tarjoamme kaikille uusille asiakkaille ilmaisen tutustumiskäynnin pannukahveine
 
 Omavalvonta on Muistolan laatutyön keskeinen osa. Asiakastyytyväisyys on tärkeä osa omavalvontaa ja koko toimintaa. Siksi otamme toiveita ja ideoita aina vastaan palvelun kehittämiseksi. Kysymme asiakkailta säännöllisin väliajoin tuntemuksia ja  kehitysideoita toimintaamme liittyen. Muistolan toimintakulttuuri on avoin ja keskusteleva.
 
-Palautetta voit antaa puhelimitse, postitse, sähköpostitse osoitteeseen <mailto:palaute@muistola.fi> tai henkilökohtaisesti tavatessa. Facebookissa voit seurata Muistolaa osoitteessa: https://www.facebook.com/MuistolaTampere.
+Palautetta voit antaa puhelimitse, postitse, sähköpostitse osoitteeseen <mailto:palaute@muistola.fi> tai henkilökohtaisesti tavatessa. 
+
+Facebookissa voit seurata Muistolaa osoitteessa: https://www.facebook.com/MuistolaTampere.
