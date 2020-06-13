@@ -26,4 +26,4 @@ Omavalvonta on Muistolan laatutyön keskeinen osa. Asiakastyytyväisyys on ta�
 
 Palautetta voit antaa puhelimitse, postitse, sähköpostitse osoitteeseen <mailto:palaute@muistola.fi> tai henkilökohtaisesti tavatessa. 
 
-Facebookissa voit seurata Muistolaa osoitteessa: https://www.facebook.com/MuistolaTampere.
+Facebookissa voit seurata Muistolaa: https://www.facebook.com/MuistolaTampere.
