@@ -1,6 +1,6 @@
 ---
 title: Yhteystiedot & palaute
-banner: img/yhteystiedot.jpg
+banner: /img/dsc_2561_mv.jpg
 metatitle: >-
   Yhteystiedot - Muistola - Kuntouttavaa päivätoimintaa & perhehoitoa
   Tampereella
