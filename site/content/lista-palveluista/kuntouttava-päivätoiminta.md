@@ -1,6 +1,6 @@
 ---
 title: Yksityinen päivätoiminta
-banner: img/Virkkaus.jpg
+banner: /img/dsc_2308-–-kopio_mv.jpg
 hiddenondesktop: false
 rank: 2
 ---
