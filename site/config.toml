@@ -32,13 +32,13 @@ disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
             url = "/palvelut/#3"
             weight = 2
         [[menu.main]]
-            name = "Pesupalvelu"
+            name = "Lisäpalvelut"
             parent = "palvelut"
             identifier = "pyykkipalvelu"
             url = "/palvelut/#4"
             weight = 3
         [[menu.main]]
-            name = "Toimintakyvyn arviointi"
+            name = "Luonto- ja muistelumatkat"
             parent = "palvelut"
             identifier = "arviointi"
             url = "/palvelut/#5"
