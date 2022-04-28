@@ -32,7 +32,7 @@ disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
             url = "/palvelut/#3"
             weight = 2
         [[menu.main]]
-            name = "Lisäpalvelut"
+            name = "Päivätoiminnan lisäpalvelut"
             parent = "palvelut"
             identifier = "pyykkipalvelu"
             url = "/palvelut/#4"
