@@ -1,11 +1,11 @@
 ---
 title: Luonto- ja muistelumatkat
-banner: /img/dsc_2688-–-kopio_pienennetty.jpg
+banner: /img/muistelumatkat.jpg
 hiddenondesktop: true
 rank: 5
 ---
-Muistola tarjoaa erilaisille ryhmille esteettömiä luonto- ja muistelumatkoja. Ryhmäkoko on noin 10-25 henkilöä.
+Muistola tarjoaa ikimuistoisia luonto- ja muistelumatkoja ulkomaille Teiskoon. Tilaisuuksien ryhmäkoko on 8-25 henkilöä ja kesto 4-5 tuntia. Hinnat alk. 40€/hlö.
 
-Villin Pohtolan mieleenpainuva ohjelma sekä keittolounas ja pannukahvit on mahdollista nauttia joko luonnon helmassa tai Muistolan tiloissa. 
+Mieleenpainuvan ohjelman lisäksi tarjolla on keittolounas sekä pannukahvit, jotka on mahdollista nauttia esteettömästi joko luonnon helmassa tai Muistolan tiloissa.
 
-Päivän teema on mahdollista sopia etukäteen toiveiden mukaan.
+Päivän muisteluteema on mahdollista sopia etukäteen toiveiden mukaan. Vaihtoehtoja löytyy laidasta laitaan.
