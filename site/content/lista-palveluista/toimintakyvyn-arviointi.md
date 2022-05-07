@@ -1,5 +1,5 @@
 ---
-title: Luonto- ja muistelumatkat
+title: Muistojen matkat
 banner: /img/muistojen-matkat_kotisivuille.png
 hiddenondesktop: true
 rank: 5
