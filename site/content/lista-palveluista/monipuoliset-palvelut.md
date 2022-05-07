@@ -9,7 +9,7 @@ Muistola tarjoaa seuraavia palveluita:
 * <a href="palvelut/#2">Yksityistä päivätoimintaa</a>
 * <a href="palvelut/#3">Osavuorokautista perhehoitoa</a>
 * <a href="palvelut/#4">Päivätoimintaan liittyviä lisäpalveluita</a>
-* <a href="palvelut/#5">Luonto- ja muistelumatkoja</a>
+* <a href="palvelut/#5">Muistojen matkoja</a>
 
 Muistola tarjoaa kuntouttavaa ikäihmisten päivätoimintaa, päivätoimintaan liittyviä oheispalveluja sekä erilaisia luonto- ja muistelumatkoja. 
 
