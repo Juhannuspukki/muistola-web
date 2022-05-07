@@ -50,5 +50,5 @@ Muisteluteemat:
 * Näe seppä työssään
 * Musiikkimuistoja vuosien takaa
 * Äidin lihapadat ja suomalaiset perinneruuat
-* Kiiltokuvista kahvikuppeihin - Mitä kaikkea olet keräillyt?
+* Kiiltokuvista kahvikuppeihin - mitä kaikkea olet keräillyt?
 * Koulun liikuntatunneista kilpaurheiluun
