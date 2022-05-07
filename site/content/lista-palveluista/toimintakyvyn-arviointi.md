@@ -1,6 +1,6 @@
 ---
 title: Luonto- ja muistelumatkat
-banner: /img/muistelumatkat.jpg
+banner: /img/muistojen-matkat_kotisivuille.png
 hiddenondesktop: true
 rank: 5
 ---
