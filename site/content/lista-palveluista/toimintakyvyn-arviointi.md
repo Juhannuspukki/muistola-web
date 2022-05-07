@@ -10,6 +10,8 @@ Mieleenpainuvan ohjelman lisäksi tarjolla on keittolounas sekä pannukahvit, jo
 
 Tilaisuuksien ryhmäkoko on 8-25 henkilöä ja kesto 4-5 tuntia. Hinnat alk. 50€/hlö.
 
+Muistojen matkoille voi tulla vaikka lapsenlapsen kanssa. Kerää oma porukka tai osallistu avoimiin muistelupäiviin. Soita ja kysy lisää!
+
 Muisteluteemat:
 
 * Kaikki kahvista ja korvikkeista
