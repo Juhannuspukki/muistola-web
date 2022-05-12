@@ -11,7 +11,7 @@ ogdescription: >-
   sijaitsee Tampereella kauniissa maalaismaisemissa. Soita ja varaa ilmainen
   tutustumiskäynti!
 ---
-## Ikäihmisten päivätoimintaa ja Muistojen matkoja
+## Ikäihmisten päivätoimintaa sekä Muistojen matkoja
 
 Muistola on aidosti kodinomainen palvelu, jonne ikäihmisen on helppo tulla. Vastassa on aina sama tuttu hoitaja, Katri. Saman katon alla kohtaa monta eri sukupolvea, ja siellä voit kokea oikean kodin asioita kuten pullantuoksua ja takkatulen lämpöä.
 
