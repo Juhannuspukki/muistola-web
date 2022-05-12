@@ -49,8 +49,20 @@ Muisteluteemat:
 * Kielitaidosta on ollut paljon iloa
 * Nautin luonnosta, elän hetkessä
 * Koe kivien kauneus
-* Näe seppä työssään
 * Musiikkimuistoja vuosien takaa
 * Äidin lihapadat ja suomalaiset perinneruuat
+* Näe seppä työssään
 * Kiiltokuvista kahvikuppeihin - mitä kaikkea olet keräillyt?
 * Koulun liikuntatunneista kilpaurheiluun
+
+
+
+Keittovaihtoehdot:
+
+* Perinteinen lihakeitto
+* Kermainen lohikeitto
+* Kirkas kalakeitto (lohiseljanka)
+* Kookoskanakeitto
+* Tomaattikeitto
+* Kasvissosekeitto
+* Kylmäsavulihakeitto
