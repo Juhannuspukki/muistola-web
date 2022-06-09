@@ -55,14 +55,12 @@ Muisteluteemat:
 * Kiiltokuvista kahvikuppeihin - mitä kaikkea olet keräillyt?
 * Koulun liikuntatunneista kilpaurheiluun
 
-
-
 Keittovaihtoehdot:
 
 * Perinteinen lihakeitto
 * Kermainen lohikeitto
-* Kirkas kalakeitto (lohiseljanka)
 * Kookoskanakeitto
 * Tomaattikeitto
+* Bratwurstikeitto
 * Kasvissosekeitto
 * Kylmäsavulihakeitto
