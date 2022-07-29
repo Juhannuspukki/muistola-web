@@ -4,7 +4,7 @@ banner: /img/muistojen-matkat_kotisivuille.png
 hiddenondesktop: true
 rank: 5
 ---
-Tule Muistojen matkoille ulkomaille Teiskoon! Päivän muisteluteema räätälöidään toiveiden mukaisesti. Vaihtoehtoja löytyy laidasta laitaan; karamelleista kännyköihin ja käsitöistä kalastukseen.
+Tervetuloa Muistojen matkoille ulkomaille Teiskoon! Päivän muisteluteema räätälöidään toiveiden mukaisesti. Vaihtoehtoja löytyy laidasta laitaan; karamelleista kännyköihin ja käsitöistä kalastukseen.
 
 Mieleenpainuvan ohjelman lisäksi tarjolla on keittolounas sekä pannukahvit, jotka on mahdollista nauttia esteettömästi joko luonnon helmassa tai Muistolan tiloissa. 
 
